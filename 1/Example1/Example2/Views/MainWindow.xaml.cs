@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using Prism.Regions;
+using System.Windows;
 
 namespace Example2.Views
 {
@@ -7,9 +8,21 @@ namespace Example2.Views
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        private readonly IRegionManager _regionManager;
+
+        public MainWindow(IRegionManager regionManager)
         {
             InitializeComponent();
+            _regionManager = regionManager;
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            _regionManager.RequestNavigate("ContentRegion", "LoginView", result =>
+            {
+                if (result.Result == false)
+                    MessageBox.Show("Navigation 실패: LoginView 못 찾음");
+            });
         }
     }
 }

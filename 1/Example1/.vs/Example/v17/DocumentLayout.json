@@ -3,12 +3,112 @@
   "WorkspaceRootPath": "D:\\git\\wpf\\1\\Example1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\userinputview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\userinputview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\userinputview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\userinputview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\userinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\userinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git\\wpf\\1\\Example1\\Example3\\obj\\Debug\\net6.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Example3\\obj\\Debug\\net6.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\login\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\login\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\login\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\login\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\modules\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\modules\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\modules\\login\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\modules\\login\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\modules\\login\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\modules\\login\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|d:\\git\\wpf\\1\\example1\\example2\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B5A3989-0DD1-4D94-906E-C7FC8CC8E925}|Example2\\Example2.csproj|solutionrelative:example2\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\behavior\\enterkeytraversalbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\behavior\\enterkeytraversalbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|solutionrelative:example1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6007E8F0-81D0-4852-8BD4-EBE54D5E8F8F}|Example1\\Example1.csproj|d:\\git\\wpf\\1\\example1\\example1\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -54,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,33 +150,346 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "Example1\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "Example1\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserInputViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputViewModel.cs",
+              "RelativeDocumentMoniker": "Example3\\Modules\\UserInputViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputViewModel.cs",
+              "RelativeToolTip": "Example3\\Modules\\UserInputViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T06:35:06.374Z",
+              "WhenOpened": "2025-04-18T08:00:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInputView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputView.xaml",
+              "RelativeDocumentMoniker": "Example3\\Modules\\UserInputView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputView.xaml",
+              "RelativeToolTip": "Example3\\Modules\\UserInputView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T07:19:03.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInputView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputView.xaml.cs",
+              "RelativeDocumentMoniker": "Example3\\Modules\\UserInputView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputView.xaml.cs",
+              "RelativeToolTip": "Example3\\Modules\\UserInputView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:19:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Example3\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\App.xaml.cs",
+              "RelativeToolTip": "Example3\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:58:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Example3\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Example3\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T08:02:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Example3\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Example3\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:00:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Example3\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Example3\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T08:03:30.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\App.xaml",
+              "RelativeDocumentMoniker": "Example3\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\App.xaml",
+              "RelativeToolTip": "Example3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T07:58:57.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "Example3\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "RelativeToolTip": "Example3\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:03:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Example3\\Modules\\Login\\LoginView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml",
+              "RelativeToolTip": "Example3\\Modules\\Login\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T07:18:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Example3\\Modules\\Login\\LoginViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginViewModel.cs",
+              "RelativeToolTip": "Example3\\Modules\\Login\\LoginViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:17:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Example3\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Example3\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:58:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Example3\\Modules\\Login\\LoginView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml.cs",
+              "RelativeToolTip": "Example3\\Modules\\Login\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T07:59:32.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Example2\\Modules\\Login\\LoginView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml.cs",
+              "RelativeToolTip": "Example2\\Modules\\Login\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:25:02.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Example1\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Example1\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T06:35:17.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Example2\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\App.xaml.cs",
+              "RelativeToolTip": "Example2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:37:15.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Example2\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Example2\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:33:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Example2\\Modules\\Login\\LoginViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginViewModel.cs",
+              "RelativeToolTip": "Example2\\Modules\\Login\\LoginViewModel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:25:38.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Example2\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Example2\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T06:27:57.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Example2\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Example2\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:40:15.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Example1\\Views\\MainWindow.xaml.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Example1\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T06:35:18.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "Example1\\Views\\HomeView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml",
+              "RelativeToolTip": "Example1\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T06:41:57.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\App.xaml",
+              "RelativeDocumentMoniker": "Example2\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\App.xaml",
+              "RelativeToolTip": "Example2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T06:38:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Example2\\Modules\\Login\\LoginView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml",
+              "RelativeToolTip": "Example2\\Modules\\Login\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T06:24:37.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml",
+              "RelativeDocumentMoniker": "Example1\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml",
+              "RelativeToolTip": "Example1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T06:34:52.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Example2\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Example2\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T06:31:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Example1\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Example1\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:35:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "Example1\\Views\\HomeView.xaml.cs",
@@ -101,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "Generic.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "Example1\\Themes\\Generic.xaml",
@@ -113,44 +514,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 27,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml.cs",
               "RelativeDocumentMoniker": "Example1\\App.xaml.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml.cs",
               "RelativeToolTip": "Example1\\App.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T06:35:01.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeView.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml",
-              "RelativeDocumentMoniker": "Example1\\Views\\HomeView.xaml",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml",
-              "RelativeToolTip": "Example1\\Views\\HomeView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T06:41:57.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Example1\\Views\\MainWindow.xaml",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "Example1\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T06:35:17.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
               "Title": "EnterKeyTraversalBehavior.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Behavior\\EnterKeyTraversalBehavior.cs",
               "RelativeDocumentMoniker": "Example1\\Behavior\\EnterKeyTraversalBehavior.cs",
@@ -163,19 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml",
-              "RelativeDocumentMoniker": "Example1\\App.xaml",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml",
-              "RelativeToolTip": "Example1\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T06:34:52.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Example1\\Properties\\AssemblyInfo.cs",
@@ -188,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "App.g.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\obj\\Debug\\net6.0-windows\\App.g.cs",
               "RelativeDocumentMoniker": "Example1\\obj\\Debug\\net6.0-windows\\App.g.cs",

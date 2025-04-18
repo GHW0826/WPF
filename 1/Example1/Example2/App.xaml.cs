@@ -16,7 +16,8 @@ namespace Example2
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-
+            // containerRegistry.RegisterForNavigation<HomeView, HomeViewModel>(); // 유지
+            containerRegistry.RegisterForNavigation<LoginView, LoginViewModel>(); // ✅ 추가
         }
     }
 }
