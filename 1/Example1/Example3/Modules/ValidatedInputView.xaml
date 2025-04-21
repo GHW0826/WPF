@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="Example3.Modules.ValidatedInputView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Example3.Modules"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <local:StringNullOrEmptyToVisibilityConverter x:Key="StringNullOrEmptyToVisibilityConverter" />
+    </UserControl.Resources>
+
+    <StackPanel Margin="20">
+        <TextBlock Text="이름 입력 (2자 이상 필수)" />
+        <TextBox Width="200"
+             Text="{Binding Name, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+
+        <Button Content="제출" Width="100" Margin="10" Command="{Binding SubmitCommand}" IsEnabled="{Binding bCanSubmit}" />
+
+
+        <TextBlock Text="나이 입력 (숫자만 허용)" />
+        <TextBox x:Name="NoCopy" Width="200" Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}"
+             PreviewTextInput="TextBox_OnlyNumbers_PreviewTextInput"/>
+
+        <TextBox x:Name="CodeBox1" Width="40" MaxLength="1"
+             Text="{Binding Code1, UpdateSourceTrigger=PropertyChanged}"
+             TextChanged="MoveFocusOnFullInput" />
+        <TextBox x:Name="CodeBox2" Width="40" MaxLength="1"
+             Text="{Binding Code2, UpdateSourceTrigger=PropertyChanged}"
+             TextChanged="MoveFocusOnFullInput" />
+        <TextBox x:Name="CodeBox3" Width="40" MaxLength="1"
+             Text="{Binding Code3, UpdateSourceTrigger=PropertyChanged}"
+             TextChanged="MoveFocusOnFullInput" />
+        <TextBox x:Name="CodeBox4" Width="40" MaxLength="1"
+             Text="{Binding Code4, UpdateSourceTrigger=PropertyChanged}" />
+
+        <Grid Margin="20">
+            <!-- TextBox 위에 힌트 텍스트 겹치기 -->
+            <TextBox x:Name="EmailBox"
+             Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}"
+             Background="Transparent"
+             BorderBrush="Gray"
+             Padding="5" />
+
+            <TextBlock Text="이메일을 입력하세요"
+               Foreground="Gray"
+               Margin="8,0,0,0"
+               VerticalAlignment="Center"
+               IsHitTestVisible="False"
+               Visibility="{Binding Email, Converter={StaticResource StringNullOrEmptyToVisibilityConverter}}" />
+
+        </Grid>
+
+        <TextBlock Text="검색어 입력 (500ms 후 동작)" />
+        <TextBox Width="200" Text="{Binding SearchKeyword, UpdateSourceTrigger=PropertyChanged}" />
+
+        <TextBox x:Name="CommentBox"
+         Text="{Binding Comment, UpdateSourceTrigger=PropertyChanged}" />
+    </StackPanel>
+</UserControl>

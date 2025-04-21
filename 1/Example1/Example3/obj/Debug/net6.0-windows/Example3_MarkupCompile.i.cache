@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\git\wpf\1\Example1\Example3\App.xaml
-41844965060
+6900871167
 
-101420312265
+15153320658
 200142366043
-Modules\Login\LoginView.xaml;Modules\UserInputView.xaml;Themes\Generic.xaml;Views\MainWindow.xaml;
+Modules\HomeView.xaml;Modules\Login\LoginView.xaml;Modules\UserInputView.xaml;Modules\ValidatedInputView.xaml;Themes\Generic.xaml;Views\MainWindow.xaml;
 
-False
+True
 

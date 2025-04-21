@@ -23,12 +23,16 @@ namespace Example3.Views
             //    if (result.Result == false)
             //        MessageBox.Show("Navigation 실패: LoginView 못 찾음");
             //});
-            _regionManager.RequestNavigate("ContentRegion", "UserInputView", result =>
+            //_regionManager.RequestNavigate("ContentRegion", "UserInputView", result =>
+            //{
+            //    if (result.Result == false)
+            //        MessageBox.Show("Navigation 실패: LoginView 못 찾음");
+            //});
+            _regionManager.RequestNavigate("ContentRegion", "ValidatedInputView", result =>
             {
                 if (result.Result == false)
                     MessageBox.Show("Navigation 실패: LoginView 못 찾음");
             });
-
         }
     }
 }
