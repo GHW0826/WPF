@@ -18,7 +18,7 @@ namespace ComboBox1.Views
             _regionManager.RequestNavigate("ContentRegion", "ComboBoxView", result =>
             {
                 if (result.Result == false)
-                    MessageBox.Show("Navigation 실패: LoginView 못 찾음");
+                    MessageBox.Show("Navigation 실패: ComboBoxView 못 찾음");
             });
         }
     }

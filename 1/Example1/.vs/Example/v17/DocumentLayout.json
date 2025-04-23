@@ -3,20 +3,294 @@
   "WorkspaceRootPath": "D:\\git\\wpf\\1\\Example1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\viewmodels\\comboboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\viewmodels\\comboboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\views\\datepickerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\views\\datepickerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\viewmodels\\datepickerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\viewmodels\\datepickerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\views\\datepickerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\views\\datepickerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|d:\\git\\wpf\\1\\example1\\10.datepicker\\10.datepicker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DC7F6B9C-FA68-4D58-9865-A7921A4F04D7}|10.DatePicker\\10.DatePicker.csproj|solutionrelative:10.datepicker\\10.datepicker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\views\\listboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\views\\listboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\viewmodels\\listboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\viewmodels\\listboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\views\\listboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\views\\listboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\viewmodels\\checkboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\viewmodels\\checkboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\viewmodels\\sliderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\viewmodels\\sliderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\viewmodels\\toggleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\viewmodels\\toggleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git\\wpf\\1\\Example1\\9.ListBox\\obj\\Debug\\net6.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9.ListBox\\obj\\Debug\\net6.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\views\\toggleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\views\\toggleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\views\\toggleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\views\\toggleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|d:\\git\\wpf\\1\\example1\\9.listbox\\9.listbox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CDF5D7AE-0874-4EF1-82B8-9CA3D41C0CA1}|9.ListBox\\9.ListBox.csproj|solutionrelative:9.listbox\\9.listbox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\views\\sliderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\views\\sliderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\views\\sliderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\views\\sliderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|d:\\git\\wpf\\1\\example1\\8.togglebutton\\8.togglebutton.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{49F30728-74D2-4807-AA10-4DE3422518B8}|8.ToggleButton\\8.ToggleButton.csproj|solutionrelative:8.togglebutton\\8.togglebutton.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\7.slider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\7.slider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\views\\radiobuttonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\views\\radiobuttonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\obj\\debug\\net6.0-windows\\views\\sliderview.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\obj\\debug\\net6.0-windows\\views\\sliderview.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sskim\\AppData\\Local\\Temp\\VSGeneratedDocuments\\4d1204e2-6574-4acf-c85e-d0c3a476ee9d\\Slider.ViewModels.SliderViewModel.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\viewmodels\\radiobuttonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\viewmodels\\radiobuttonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|d:\\git\\wpf\\1\\example1\\7.slider\\7.slider.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C2F08E28-7F82-48FF-AFBF-94B204DEAC6C}|7.Slider\\7.Slider.csproj|solutionrelative:7.slider\\7.slider.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\views\\checkboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\views\\checkboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\validatedinputview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\validatedinputview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\comboboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\comboboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\comboboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\comboboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\views\\checkboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\views\\checkboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|d:\\git\\wpf\\1\\example1\\6.radiobutton\\6.radiobutton.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A3389ADA-B053-4890-B129-5A8244CC69C1}|6.RadioButton\\6.RadioButton.csproj|solutionrelative:6.radiobutton\\6.radiobutton.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git\\wpf\\1\\Example1\\5.CheckBox\\obj\\Debug\\net6.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5.CheckBox\\obj\\Debug\\net6.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\viewmodels\\comboboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\viewmodels\\comboboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|d:\\git\\wpf\\1\\example1\\5.checkbox\\5.checkbox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8A714EA7-24DD-4344-921B-5DD433F1A7EB}|5.CheckBox\\5.CheckBox.csproj|solutionrelative:5.checkbox\\5.checkbox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\comboboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\comboboxview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\validatedinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +301,8 @@
       "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\validatedinputview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\modules\\validatedinputview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\modules\\validatedinputview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -55,10 +321,6 @@
       "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|d:\\git\\wpf\\1\\example1\\example3\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD067662-E6BD-B17D-5B22-3E4698C3C3C1}|Example3\\Example3.csproj|solutionrelative:example3\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,9 +335,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\4.combobox1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|solutionrelative:4.combobox1\\4.combobox1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21FC9293-609C-44D2-A269-AB061FC2C5D9}|4.ComboBox1\\4.ComboBox1.csproj|d:\\git\\wpf\\1\\example1\\4.combobox1\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -222,31 +481,684 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ComboBoxViewModel.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
-              "RelativeDocumentMoniker": "4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
-              "RelativeToolTip": "4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAiwDYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:48:19.133Z",
+              "Title": "DatePickerView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\DatePickerView.xaml",
+              "RelativeDocumentMoniker": "10.DatePicker\\Views\\DatePickerView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\DatePickerView.xaml",
+              "RelativeToolTip": "10.DatePicker\\Views\\DatePickerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T04:54:54.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml",
-              "RelativeDocumentMoniker": "4.ComboBox1\\App.xaml",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml",
-              "RelativeToolTip": "4.ComboBox1\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T04:49:19.445Z",
+              "DocumentIndex": 2,
+              "Title": "DatePickerViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\ViewModels\\DatePickerViewModel.cs",
+              "RelativeDocumentMoniker": "10.DatePicker\\ViewModels\\DatePickerViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\ViewModels\\DatePickerViewModel.cs",
+              "RelativeToolTip": "10.DatePicker\\ViewModels\\DatePickerViewModel.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:55:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "10.DatePicker\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "10.DatePicker\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:52:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatePickerView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\DatePickerView.xaml.cs",
+              "RelativeDocumentMoniker": "10.DatePicker\\Views\\DatePickerView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\DatePickerView.xaml.cs",
+              "RelativeToolTip": "10.DatePicker\\Views\\DatePickerView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:56:32.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\App.xaml.cs",
+              "RelativeDocumentMoniker": "10.DatePicker\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\App.xaml.cs",
+              "RelativeToolTip": "10.DatePicker\\App.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:52:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "10.DatePicker\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "10.DatePicker\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T04:52:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "9.ListBox\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "9.ListBox\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:02:53.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "9.ListBox\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "9.ListBox\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T01:02:47.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\App.xaml",
+              "RelativeDocumentMoniker": "9.ListBox\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\App.xaml",
+              "RelativeToolTip": "9.ListBox\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T01:02:29.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\App.xaml.cs",
+              "RelativeDocumentMoniker": "9.ListBox\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\App.xaml.cs",
+              "RelativeToolTip": "9.ListBox\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:02:30.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "10.DatePicker\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\Themes\\Generic.xaml",
+              "RelativeToolTip": "10.DatePicker\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T04:55:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "10.DatePicker\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "10.DatePicker\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:52:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\App.xaml",
+              "RelativeDocumentMoniker": "10.DatePicker\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\App.xaml",
+              "RelativeToolTip": "10.DatePicker\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T04:52:25.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "10.DatePicker",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\10.DatePicker.csproj",
+              "RelativeDocumentMoniker": "10.DatePicker\\10.DatePicker.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\10.DatePicker\\10.DatePicker.csproj",
+              "RelativeToolTip": "10.DatePicker\\10.DatePicker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T04:52:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListBoxViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\ViewModels\\ListBoxViewModel.cs",
+              "RelativeDocumentMoniker": "9.ListBox\\ViewModels\\ListBoxViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\ViewModels\\ListBoxViewModel.cs",
+              "RelativeToolTip": "9.ListBox\\ViewModels\\ListBoxViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:03:39.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListBoxView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\ListBoxView.xaml",
+              "RelativeDocumentMoniker": "9.ListBox\\Views\\ListBoxView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\ListBoxView.xaml",
+              "RelativeToolTip": "9.ListBox\\Views\\ListBoxView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T01:03:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListBoxView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\ListBoxView.xaml.cs",
+              "RelativeDocumentMoniker": "9.ListBox\\Views\\ListBoxView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Views\\ListBoxView.xaml.cs",
+              "RelativeToolTip": "9.ListBox\\Views\\ListBoxView.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vxcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:04:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "8.ToggleButton\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "8.ToggleButton\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:36:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SliderViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\ViewModels\\SliderViewModel.cs",
+              "RelativeDocumentMoniker": "7.Slider\\ViewModels\\SliderViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\ViewModels\\SliderViewModel.cs",
+              "RelativeToolTip": "7.Slider\\ViewModels\\SliderViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:07:23.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "9.ListBox\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\Themes\\Generic.xaml",
+              "RelativeToolTip": "9.ListBox\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T01:04:36.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "9.ListBox\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "9.ListBox\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:02:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ToggleViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\ViewModels\\ToggleViewModel.cs",
+              "RelativeDocumentMoniker": "8.ToggleButton\\ViewModels\\ToggleViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\ViewModels\\ToggleViewModel.cs",
+              "RelativeToolTip": "8.ToggleButton\\ViewModels\\ToggleViewModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwDoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:39:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ToggleView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\ToggleView.xaml",
+              "RelativeDocumentMoniker": "8.ToggleButton\\Views\\ToggleView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\ToggleView.xaml",
+              "RelativeToolTip": "8.ToggleButton\\Views\\ToggleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:38:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckBoxViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\ViewModels\\CheckBoxViewModel.cs",
+              "RelativeDocumentMoniker": "5.CheckBox\\ViewModels\\CheckBoxViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\ViewModels\\CheckBoxViewModel.cs",
+              "RelativeToolTip": "5.CheckBox\\ViewModels\\CheckBoxViewModel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:12:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "9.ListBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "RelativeToolTip": "9.ListBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:32:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "8.ToggleButton\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "8.ToggleButton\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:36:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ToggleView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\ToggleView.xaml.cs",
+              "RelativeDocumentMoniker": "8.ToggleButton\\Views\\ToggleView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\ToggleView.xaml.cs",
+              "RelativeToolTip": "8.ToggleButton\\Views\\ToggleView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:39:10.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "8.ToggleButton\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "8.ToggleButton\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:36:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "9.ListBox",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\9.ListBox.csproj",
+              "RelativeDocumentMoniker": "9.ListBox\\9.ListBox.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\9.ListBox\\9.ListBox.csproj",
+              "RelativeToolTip": "9.ListBox\\9.ListBox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T01:02:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\App.xaml.cs",
+              "RelativeDocumentMoniker": "8.ToggleButton\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\App.xaml.cs",
+              "RelativeToolTip": "8.ToggleButton\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:35:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\App.xaml",
+              "RelativeDocumentMoniker": "8.ToggleButton\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\App.xaml",
+              "RelativeToolTip": "8.ToggleButton\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:35:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "7.Slider\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "7.Slider\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:06:00.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "8.ToggleButton\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\Themes\\Generic.xaml",
+              "RelativeToolTip": "8.ToggleButton\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:41:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "7.Slider\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "7.Slider\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:06:06.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "7.Slider\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "7.Slider\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:06:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SliderView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\SliderView.xaml.cs",
+              "RelativeDocumentMoniker": "7.Slider\\Views\\SliderView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\SliderView.xaml.cs",
+              "RelativeToolTip": "7.Slider\\Views\\SliderView.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:09:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SliderView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\SliderView.xaml",
+              "RelativeDocumentMoniker": "7.Slider\\Views\\SliderView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Views\\SliderView.xaml",
+              "RelativeToolTip": "7.Slider\\Views\\SliderView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:06:42.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\App.xaml.cs",
+              "RelativeDocumentMoniker": "7.Slider\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\App.xaml.cs",
+              "RelativeToolTip": "7.Slider\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:05:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\App.xaml",
+              "RelativeDocumentMoniker": "7.Slider\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\App.xaml",
+              "RelativeToolTip": "7.Slider\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:05:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "8.ToggleButton",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\8.ToggleButton.csproj",
+              "RelativeDocumentMoniker": "8.ToggleButton\\8.ToggleButton.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\8.ToggleButton\\8.ToggleButton.csproj",
+              "RelativeToolTip": "8.ToggleButton\\8.ToggleButton.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T00:35:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "7.Slider",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\7.Slider.csproj",
+              "RelativeDocumentMoniker": "7.Slider\\7.Slider.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\7.Slider.csproj",
+              "RelativeToolTip": "7.Slider\\7.Slider.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T00:35:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SliderView.g.i.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\obj\\Debug\\net6.0-windows\\Views\\SliderView.g.i.cs",
+              "RelativeDocumentMoniker": "7.Slider\\obj\\Debug\\net6.0-windows\\Views\\SliderView.g.i.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\obj\\Debug\\net6.0-windows\\Views\\SliderView.g.i.cs",
+              "RelativeToolTip": "7.Slider\\obj\\Debug\\net6.0-windows\\Views\\SliderView.g.i.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAEwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T00:12:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Slider.ViewModels.SliderViewModel.g.cs [\uC0DD\uC131\uB428]",
+              "DocumentMoniker": "C:\\Users\\sskim\\AppData\\Local\\Temp\\VSGeneratedDocuments\\4d1204e2-6574-4acf-c85e-d0c3a476ee9d\\Slider.ViewModels.SliderViewModel.g.cs",
+              "ToolTip": "Slider.ViewModels.SliderViewModel.g.cs [CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator\uC774(\uAC00) \uC0DD\uC131\uD568]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "Slider.ViewModels.SliderViewModel.g.cs [CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator\uC774(\uAC00) \uC0DD\uC131\uD568]",
+              "WhenOpened": "2025-04-23T00:13:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RadioButtonView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Views\\RadioButtonView.xaml.cs",
+              "RelativeDocumentMoniker": "6.RadioButton\\Views\\RadioButtonView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Views\\RadioButtonView.xaml.cs",
+              "RelativeToolTip": "6.RadioButton\\Views\\RadioButtonView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:37:02.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\App.xaml",
+              "RelativeDocumentMoniker": "6.RadioButton\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\App.xaml",
+              "RelativeToolTip": "6.RadioButton\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T01:31:35.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "6.RadioButton\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "6.RadioButton\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:31:56.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\App.xaml.cs",
+              "RelativeDocumentMoniker": "6.RadioButton\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\App.xaml.cs",
+              "RelativeToolTip": "6.RadioButton\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:31:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "6.RadioButton\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "6.RadioButton\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T01:31:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RadioButtonViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\ViewModels\\RadioButtonViewModel.cs",
+              "RelativeDocumentMoniker": "6.RadioButton\\ViewModels\\RadioButtonViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\ViewModels\\RadioButtonViewModel.cs",
+              "RelativeToolTip": "6.RadioButton\\ViewModels\\RadioButtonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:34:19.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "6.RadioButton\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "6.RadioButton\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:32:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "7.Slider\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\Themes\\Generic.xaml",
+              "RelativeToolTip": "7.Slider\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T00:09:36.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "7.Slider",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\7.Slider\\7.Slider.csproj",
+              "RelativeDocumentMoniker": "7.Slider\\7.Slider.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\7.Slider\\7.Slider.csproj",
+              "RelativeToolTip": "7.Slider\\7.Slider.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T00:05:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\App.xaml.cs",
+              "RelativeDocumentMoniker": "5.CheckBox\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\App.xaml.cs",
+              "RelativeToolTip": "5.CheckBox\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:10:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CheckBoxView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\CheckBoxView.xaml",
+              "RelativeDocumentMoniker": "5.CheckBox\\Views\\CheckBoxView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\CheckBoxView.xaml",
+              "RelativeToolTip": "5.CheckBox\\Views\\CheckBoxView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T00:12:13.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "ComboBoxView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\ComboBoxView.xaml",
               "RelativeDocumentMoniker": "4.ComboBox1\\Views\\ComboBoxView.xaml",
@@ -258,7 +1170,207 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 54,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "5.CheckBox\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "5.CheckBox\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T00:11:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ValidatedInputView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\ValidatedInputView.xaml",
+              "RelativeDocumentMoniker": "Example3\\Modules\\ValidatedInputView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\ValidatedInputView.xaml",
+              "RelativeToolTip": "Example3\\Modules\\ValidatedInputView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T00:32:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "5.CheckBox\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "5.CheckBox\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:11:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CheckBoxView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\CheckBoxView.xaml.cs",
+              "RelativeDocumentMoniker": "5.CheckBox\\Views\\CheckBoxView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Views\\CheckBoxView.xaml.cs",
+              "RelativeToolTip": "5.CheckBox\\Views\\CheckBoxView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:12:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "5.CheckBox\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "5.CheckBox\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:11:11.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "6.RadioButton\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "6.RadioButton\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T01:34:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "6.RadioButton\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\Themes\\Generic.xaml",
+              "RelativeToolTip": "6.RadioButton\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T01:34:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "6.RadioButton",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\6.RadioButton.csproj",
+              "RelativeDocumentMoniker": "6.RadioButton\\6.RadioButton.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\6.RadioButton\\6.RadioButton.csproj",
+              "RelativeToolTip": "6.RadioButton\\6.RadioButton.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T01:31:24.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "5.CheckBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "RelativeToolTip": "5.CheckBox\\obj\\Debug\\net6.0-windows\\App.g.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:11:21.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "4.ComboBox1\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml.cs",
+              "RelativeToolTip": "4.ComboBox1\\App.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:43:13.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "4.ComboBox1\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "4.ComboBox1\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:48:59.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "5.CheckBox\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\Themes\\Generic.xaml",
+              "RelativeToolTip": "5.CheckBox\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T00:13:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "4.ComboBox1\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "4.ComboBox1\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T04:48:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ComboBoxViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
+              "RelativeDocumentMoniker": "4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
+              "RelativeToolTip": "4.ComboBox1\\ViewModels\\ComboBoxViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:48:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\App.xaml",
+              "RelativeDocumentMoniker": "5.CheckBox\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\App.xaml",
+              "RelativeToolTip": "5.CheckBox\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T00:10:43.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "5.CheckBox",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\5.CheckBox.csproj",
+              "RelativeDocumentMoniker": "5.CheckBox\\5.CheckBox.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\5.CheckBox\\5.CheckBox.csproj",
+              "RelativeToolTip": "5.CheckBox\\5.CheckBox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T00:10:31.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Example3\\Views\\MainWindow.xaml",
@@ -270,7 +1382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 72,
               "Title": "ComboBoxView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\ComboBoxView.xaml.cs",
               "RelativeDocumentMoniker": "4.ComboBox1\\Views\\ComboBoxView.xaml.cs",
@@ -283,7 +1395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 74,
               "Title": "ValidatedInputView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\ValidatedInputView.xaml.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\ValidatedInputView.xaml.cs",
@@ -296,7 +1408,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 71,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAvwNIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-21T04:49:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml",
+              "RelativeDocumentMoniker": "4.ComboBox1\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml",
+              "RelativeToolTip": "4.ComboBox1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T04:49:19.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
               "Title": "ValidatedInputViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\ValidatedInputViewModel.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\ValidatedInputViewModel.cs",
@@ -309,32 +1444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml.cs",
-              "RelativeDocumentMoniker": "4.ComboBox1\\App.xaml.cs",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\App.xaml.cs",
-              "RelativeToolTip": "4.ComboBox1\\App.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:43:13.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ValidatedInputView.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\ValidatedInputView.xaml",
-              "RelativeDocumentMoniker": "Example3\\Modules\\ValidatedInputView.xaml",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\ValidatedInputView.xaml",
-              "RelativeToolTip": "Example3\\Modules\\ValidatedInputView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T00:32:14.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 77,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\App.xaml",
               "RelativeDocumentMoniker": "Example3\\App.xaml",
@@ -346,32 +1456,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "4.ComboBox1\\Views\\MainWindow.xaml",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "4.ComboBox1\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T04:48:44.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 80,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Example3\\Views\\MainWindow.xaml.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Example3\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T08:00:01.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 79,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\App.xaml.cs",
               "RelativeDocumentMoniker": "Example3\\App.xaml.cs",
@@ -384,33 +1482,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 78,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\Login\\LoginView.xaml.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml.cs",
               "RelativeToolTip": "Example3\\Modules\\Login\\LoginView.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T07:59:32.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "4.ComboBox1\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "4.ComboBox1\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:48:59.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 81,
               "Title": "UserInputView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputView.xaml",
               "RelativeDocumentMoniker": "Example3\\Modules\\UserInputView.xaml",
@@ -422,7 +1507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 83,
               "Title": "4.ComboBox1",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\4.ComboBox1.csproj",
               "RelativeDocumentMoniker": "4.ComboBox1\\4.ComboBox1.csproj",
@@ -434,18 +1519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Microsoft.WinFX.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAANIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-21T04:49:58.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 82,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "4.ComboBox1\\ViewModels\\MainWindowViewModel.cs",
@@ -458,7 +1532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 84,
               "Title": "Generic.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "4.ComboBox1\\Themes\\Generic.xaml",
@@ -470,7 +1544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 88,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\HomeView.xaml",
               "RelativeDocumentMoniker": "Example3\\Modules\\HomeView.xaml",
@@ -482,20 +1556,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 85,
               "Title": "UserInputViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputViewModel.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\UserInputViewModel.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputViewModel.cs",
               "RelativeToolTip": "Example3\\Modules\\UserInputViewModel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAABIwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T08:00:37.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 86,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\Login\\LoginViewModel.cs",
@@ -508,7 +1582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 87,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\Login\\LoginView.xaml",
               "RelativeDocumentMoniker": "Example3\\Modules\\Login\\LoginView.xaml",
@@ -520,7 +1594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 89,
               "Title": "Generic.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "Example3\\Themes\\Generic.xaml",
@@ -532,7 +1606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 90,
               "Title": "EnterKeyTraversalBehavior.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Behavior\\EnterKeyTraversalBehavior.cs",
               "RelativeDocumentMoniker": "Example3\\Behavior\\EnterKeyTraversalBehavior.cs",
@@ -545,7 +1619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 91,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\HomeViewModel.cs",
@@ -558,20 +1632,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 92,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\HomeView.xaml.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\HomeView.xaml.cs",
               "RelativeToolTip": "Example3\\Modules\\HomeView.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAABIwBMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T00:16:08.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 93,
               "Title": "UserInputView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\Modules\\UserInputView.xaml.cs",
               "RelativeDocumentMoniker": "Example3\\Modules\\UserInputView.xaml.cs",
@@ -584,7 +1658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 94,
               "Title": "App.g.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\obj\\Debug\\net6.0-windows\\App.g.cs",
               "RelativeDocumentMoniker": "Example3\\obj\\Debug\\net6.0-windows\\App.g.cs",
@@ -597,7 +1671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 95,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example3\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "Example3\\ViewModels\\MainWindowViewModel.cs",
@@ -610,20 +1684,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 103,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "Example2\\Modules\\Login\\LoginView.xaml.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml.cs",
               "RelativeToolTip": "Example2\\Modules\\Login\\LoginView.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAABIwBUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAABYwBUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:25:02.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 96,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Example1\\Views\\MainWindow.xaml",
@@ -635,7 +1709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 100,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\App.xaml.cs",
               "RelativeDocumentMoniker": "Example2\\App.xaml.cs",
@@ -648,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 101,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "Example2\\ViewModels\\MainWindowViewModel.cs",
@@ -661,20 +1735,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 102,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Example2\\Modules\\Login\\LoginViewModel.cs",
               "ToolTip": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginViewModel.cs",
               "RelativeToolTip": "Example2\\Modules\\Login\\LoginViewModel.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA7wC8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwC8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T06:25:38.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 97,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Example2\\Views\\MainWindow.xaml",
@@ -686,7 +1760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 99,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Example2\\Views\\MainWindow.xaml.cs",
@@ -699,7 +1773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 98,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Example1\\Views\\MainWindow.xaml.cs",
@@ -712,7 +1786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 106,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "Example1\\Views\\HomeView.xaml",
@@ -724,7 +1798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 105,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\App.xaml",
               "RelativeDocumentMoniker": "Example2\\App.xaml",
@@ -736,7 +1810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 104,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Modules\\Login\\LoginView.xaml",
               "RelativeDocumentMoniker": "Example2\\Modules\\Login\\LoginView.xaml",
@@ -748,7 +1822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 107,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml",
               "RelativeDocumentMoniker": "Example1\\App.xaml",
@@ -760,7 +1834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 108,
               "Title": "Generic.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example2\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "Example2\\Themes\\Generic.xaml",
@@ -772,7 +1846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 109,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "Example1\\ViewModels\\MainWindowViewModel.cs",
@@ -785,7 +1859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 111,
               "Title": "HomeView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Views\\HomeView.xaml.cs",
               "RelativeDocumentMoniker": "Example1\\Views\\HomeView.xaml.cs",
@@ -798,7 +1872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 113,
               "Title": "Generic.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "Example1\\Themes\\Generic.xaml",
@@ -810,7 +1884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 110,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\App.xaml.cs",
               "RelativeDocumentMoniker": "Example1\\App.xaml.cs",
@@ -823,7 +1897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 112,
               "Title": "EnterKeyTraversalBehavior.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Behavior\\EnterKeyTraversalBehavior.cs",
               "RelativeDocumentMoniker": "Example1\\Behavior\\EnterKeyTraversalBehavior.cs",
@@ -836,7 +1910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 114,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Example1\\Properties\\AssemblyInfo.cs",
@@ -849,7 +1923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 115,
               "Title": "App.g.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\Example1\\Example1\\obj\\Debug\\net6.0-windows\\App.g.cs",
               "RelativeDocumentMoniker": "Example1\\obj\\Debug\\net6.0-windows\\App.g.cs",
