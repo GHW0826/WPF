@@ -9,7 +9,130 @@
              prism:ViewModelLocator.AutoWireViewModel="True"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <vm:AgeToBrushConverter x:Key="AgeToBrushConverter" />
+        <vm:NullToBoolConverter x:Key="NullToBoolConverter" />
+    </UserControl.Resources>
     <Grid>
-        <DataGrid ItemsSource="{Binding People}" AutoGenerateColumns="True" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- 검색창, 버튼 -->
+            <RowDefinition Height="*"/>
+            <!-- DataGrid -->
+        </Grid.RowDefinitions>
+        
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="검색: " VerticalAlignment="Center"/>
+            <TextBox Width="200" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Content="삭제" Command="{Binding DeleteCommand}" Width="100" Margin="0,0,0,10" />
+        </StackPanel>
+
+        <DataGrid Grid.Row="1"
+                    ItemsSource="{Binding FilteredPeople}"
+                    SelectedItem="{Binding SelectedPerson, Mode=TwoWay}"
+                    AutoGenerateColumns="False"
+                    CanUserAddRows="False"
+                    CanUserDeleteRows="False"
+                    IsReadOnly="False"
+                    FrozenColumnCount="1"
+                    RowDetailsVisibilityMode="VisibleWhenSelected"
+                    EnableRowVirtualization="True"
+                    VirtualizingPanel.IsVirtualizing="True"
+                    VirtualizingPanel.VirtualizationMode="Recycling"
+                    ScrollViewer.CanContentScroll="True">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="행 삭제"
+                  Command="{Binding DeleteCommand}"
+                  IsEnabled="{Binding SelectedItem, RelativeSource={RelativeSource AncestorType=DataGrid}, Converter={StaticResource NullToBoolConverter}}" />
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+            
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="{Binding Name}" FontWeight="Bold"/>
+                        <TextBlock Text="상세 설명이 여기에 들어갑니다." Foreground="Gray"/>
+                    </StackPanel>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+            
+            <!-- 조건부 Row 스타일 정의 -->
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="Background" Value="{Binding Age, Converter={StaticResource AgeToBrushConverter}}" />
+                </Style>
+            </DataGrid.RowStyle>
+
+
+            <DataGrid.Columns>
+                <!-- ID 그대로 -->
+                <DataGridTextColumn Header="ID" Binding="{Binding Id, Mode=TwoWay}" Width="*" />
+
+                <!-- Name → ComboBox -->
+                <DataGridTemplateColumn SortMemberPath="Name">
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="👤" Margin="0,0,5,0"/>
+                                <TextBlock Text="이름" ToolTip="사용자 이름입니다" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}">
+                                <TextBlock.ToolTip>
+                                    <ToolTip>
+                                        <StackPanel>
+                                            <TextBlock Text="{Binding Name}" FontWeight="Bold"/>
+                                            <TextBlock Text="{Binding Age}"/>
+                                        </StackPanel>
+                                    </ToolTip>
+                                </TextBlock.ToolTip>
+                            </TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox ItemsSource="{Binding DataContext.NameOptions, RelativeSource={RelativeSource AncestorType=UserControl}}"
+                                SelectedItem="{Binding Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Age → Slider -->
+                <DataGridTemplateColumn SortMemberPath="Age">
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="🎂" Margin="0,0,5,0"/>
+                                <TextBlock Text="나이" ToolTip="사용자 나이입니다" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Age}" />
+                                <TextBlock Text=" (" Foreground="Gray"/>
+                                <TextBlock Text="{Binding AgeGrade}" Foreground="Gray"/>
+                                <TextBlock Text=")" Foreground="Gray"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Age, Mode=TwoWay, 
+                                UpdateSourceTrigger=PropertyChanged, 
+                                ValidatesOnDataErrors=True, 
+                                NotifyOnValidationError=True}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </UserControl>

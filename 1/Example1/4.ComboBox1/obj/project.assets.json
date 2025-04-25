@@ -1140,9 +1140,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\4.ComboBox1.csproj",
+      "projectUniqueName": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\4.ComboBox.csproj",
       "projectName": "ComboBox1",
-      "projectPath": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\4.ComboBox1.csproj",
+      "projectPath": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\4.ComboBox.csproj",
       "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
       "outputPath": "D:\\git\\wpf\\1\\Example1\\4.ComboBox1\\obj\\",
       "projectStyle": "PackageReference",
