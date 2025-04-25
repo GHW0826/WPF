@@ -1,0 +1,3 @@
+[submodule "SWPF.GameDevTool"]
+	path = SWPF.GameDevTool
+	url = https://github.com/GHW0826/SWPF.GameDevTool.git
