@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="RoutedEvent.Views.RoutedEventTestView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <Grid Background="LightBlue"
+          PreviewMouseDown="Grid_PreviewMouseDown"
+          MouseDown="Grid_MouseDown">
+
+        <StackPanel Background="LightGreen"
+                    Margin="30"
+                    PreviewMouseDown="StackPanel_PreviewMouseDown"
+                    MouseDown="StackPanel_MouseDown">
+
+            <Border Background="LightCoral"
+                    Height="100"
+                    Margin="10"
+                    PreviewMouseDown="Border_PreviewMouseDown"
+                    MouseDown="Border_MouseDown">
+                <TextBlock Text="Click Inside Border" 
+                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                           FontSize="16"/>
+            </Border>
+
+        </StackPanel>
+    </Grid>
+</UserControl>
