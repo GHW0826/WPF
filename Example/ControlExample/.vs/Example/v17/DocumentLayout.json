@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\wpf\\1\\ControlExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\views\\virtualizingstackpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\views\\virtualizingstackpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\viewmodels\\virtualizingstackpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\viewmodels\\virtualizingstackpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\views\\virtualizingstackpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\views\\virtualizingstackpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|d:\\git\\wpf\\1\\controlexample\\39.virtualizingstackpanel\\39.virtualizingstackpanel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A640D3AD-4A81-45D7-8A9D-89AF94AA393E}|39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj|solutionrelative:39.virtualizingstackpanel\\39.virtualizingstackpanel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\views\\adornerlayerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\views\\adornerlayerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\views\\adornerlayerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\views\\adornerlayerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\viewmodels\\adornerlayerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\viewmodels\\adornerlayerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C89C6C-851C-4EA6-8208-16B6E5184334}|37.InkCanvas\\37.InkCanvas.csproj|d:\\git\\wpf\\1\\controlexample\\37.inkcanvas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C89C6C-851C-4EA6-8208-16B6E5184334}|37.InkCanvas\\37.InkCanvas.csproj|solutionrelative:37.inkcanvas\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C89C6C-851C-4EA6-8208-16B6E5184334}|37.InkCanvas\\37.InkCanvas.csproj|d:\\git\\wpf\\1\\controlexample\\37.inkcanvas\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C89C6C-851C-4EA6-8208-16B6E5184334}|37.InkCanvas\\37.InkCanvas.csproj|solutionrelative:37.inkcanvas\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C89C6C-851C-4EA6-8208-16B6E5184334}|37.InkCanvas\\37.InkCanvas.csproj|d:\\git\\wpf\\1\\controlexample\\37.inkcanvas\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62C89C6C-851C-4EA6-8208-16B6E5184334}|37.InkCanvas\\37.InkCanvas.csproj|solutionrelative:37.inkcanvas\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|d:\\git\\wpf\\1\\controlexample\\38.adornerlayer\\38.adornerlayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9B323333-D514-46BF-A544-E7DCB898A862}|38.AdornerLayer\\38.AdornerLayer.csproj|solutionrelative:38.adornerlayer\\38.adornerlayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Themes\\Generic.xaml",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:22:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:20:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VirtualizingStackPanelViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\ViewModels\\VirtualizingStackPanelViewModel.cs",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\ViewModels\\VirtualizingStackPanelViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\ViewModels\\VirtualizingStackPanelViewModel.cs",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\ViewModels\\VirtualizingStackPanelViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:20:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\App.xaml.cs",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\App.xaml.cs",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:19:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VirtualizingStackPanelView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:20:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VirtualizingStackPanelView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml.cs",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml.cs",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:21:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "38.AdornerLayer\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:38:38.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:20:03.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "38.AdornerLayer\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T01:38:33.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\App.xaml.cs",
+              "RelativeToolTip": "38.AdornerLayer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:38:24.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:20:13.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\App.xaml",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\App.xaml",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:19:57.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "39.VirtualizingStackPanel",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+              "RelativeDocumentMoniker": "39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+              "RelativeToolTip": "39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T02:19:43.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdornerLayerView.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\AdornerLayerView.xaml.cs",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\Views\\AdornerLayerView.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\AdornerLayerView.xaml.cs",
+              "RelativeToolTip": "38.AdornerLayer\\Views\\AdornerLayerView.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:40:56.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdornerLayerViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\ViewModels\\AdornerLayerViewModel.cs",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\ViewModels\\AdornerLayerViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\ViewModels\\AdornerLayerViewModel.cs",
+              "RelativeToolTip": "38.AdornerLayer\\ViewModels\\AdornerLayerViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:39:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdornerLayerView.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\AdornerLayerView.xaml",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\Views\\AdornerLayerView.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Views\\AdornerLayerView.xaml",
+              "RelativeToolTip": "38.AdornerLayer\\Views\\AdornerLayerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T01:38:54.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "37.InkCanvas\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "37.InkCanvas\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:39:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "38.AdornerLayer\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:38:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\App.xaml.cs",
+              "RelativeDocumentMoniker": "37.InkCanvas\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\App.xaml.cs",
+              "RelativeToolTip": "37.InkCanvas\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:39:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "37.InkCanvas\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "37.InkCanvas\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T01:39:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\Themes\\Generic.xaml",
+              "RelativeToolTip": "38.AdornerLayer\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T01:39:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\App.xaml",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\App.xaml",
+              "RelativeToolTip": "38.AdornerLayer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T01:38:27.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "38.AdornerLayer",
+              "DocumentMoniker": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\38.AdornerLayer.csproj",
+              "RelativeDocumentMoniker": "38.AdornerLayer\\38.AdornerLayer.csproj",
+              "ToolTip": "D:\\git\\wpf\\1\\ControlExample\\38.AdornerLayer\\38.AdornerLayer.csproj",
+              "RelativeToolTip": "38.AdornerLayer\\38.AdornerLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T01:38:16.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
