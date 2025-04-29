@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Data;
+
+namespace SWPF.Common.Converters
+{
+    /*
+        enum 값 → RadioButton 선택 상태    라디오 버튼 enum 바인딩
+    */
+    public class EnumToBooleanConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value == null || parameter == null)
+                return false;
+
+            string enumValue = value.ToString();
+            string targetValue = parameter.ToString();
+            return enumValue.Equals(targetValue, StringComparison.InvariantCultureIgnoreCase);
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (parameter == null)
+                return null;
+
+            return Enum.Parse(targetType, parameter.ToString());
+        }
+    }
+}
