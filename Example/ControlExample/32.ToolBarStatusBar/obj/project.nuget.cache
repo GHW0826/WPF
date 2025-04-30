@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rskQyFD9dR0=",
+  "dgSpecHash": "L9pNZmNzZO4=",
   "success": true,
-  "projectFilePath": "D:\\git\\wpf\\1\\ControlExample\\32.ToolBarStatusBar\\33.ToolBarStatusBar.csproj",
+  "projectFilePath": "D:\\git\\wpf\\Example\\ControlExample\\32.ToolBarStatusBar\\33.ToolBarStatusBar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sskim\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\sskim\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",

@@ -53,7 +53,7 @@ namespace VirtualizingStackPanel.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VirtualizingStackPanel;component/views/virtualizingstackpanelview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VirtualizingStackPanel;V1.0.0.0;component/views/virtualizingstackpanelview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\VirtualizingStackPanelView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

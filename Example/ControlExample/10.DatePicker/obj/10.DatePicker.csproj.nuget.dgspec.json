@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\10.DatePicker\\10.DatePicker.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\10.DatePicker\\10.DatePicker.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\10.DatePicker\\10.DatePicker.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\10.DatePicker\\10.DatePicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\10.DatePicker\\10.DatePicker.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\10.DatePicker\\10.DatePicker.csproj",
         "projectName": "DatePicker",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\10.DatePicker\\10.DatePicker.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\10.DatePicker\\10.DatePicker.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\10.DatePicker\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\10.DatePicker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj",
         "projectName": "ToggleButton",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\8.ToggleButton\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\8.ToggleButton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

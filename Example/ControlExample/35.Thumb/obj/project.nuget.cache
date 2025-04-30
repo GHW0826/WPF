@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vTgVKIFRMpU=",
+  "dgSpecHash": "0HbWMcP82gU=",
   "success": true,
-  "projectFilePath": "D:\\git\\wpf\\1\\ControlExample\\35.Thumb\\35.Thumb.csproj",
+  "projectFilePath": "D:\\git\\wpf\\Example\\ControlExample\\35.Thumb\\35.Thumb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sskim\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\sskim\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",

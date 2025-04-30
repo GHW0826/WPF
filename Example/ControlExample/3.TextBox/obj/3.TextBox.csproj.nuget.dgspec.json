@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\3.TextBox\\3.TextBox.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\3.TextBox\\3.TextBox.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\3.TextBox\\3.TextBox.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\3.TextBox\\3.TextBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\3.TextBox\\3.TextBox.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\3.TextBox\\3.TextBox.csproj",
         "projectName": "TextBox",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\3.TextBox\\3.TextBox.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\3.TextBox\\3.TextBox.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\3.TextBox\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\3.TextBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

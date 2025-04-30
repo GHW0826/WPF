@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj",
         "projectName": "MultiBinding",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\24.MultiBinding\\24.MultiBinding.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\24.MultiBinding\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\24.MultiBinding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

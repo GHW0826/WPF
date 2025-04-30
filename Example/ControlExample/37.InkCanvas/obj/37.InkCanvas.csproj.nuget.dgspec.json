@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj",
         "projectName": "InkCanvas",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\37.InkCanvas\\37.InkCanvas.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\37.InkCanvas\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\37.InkCanvas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

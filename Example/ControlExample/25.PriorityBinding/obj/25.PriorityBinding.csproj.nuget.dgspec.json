@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj",
         "projectName": "PriorityBinding",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\25.PriorityBinding\\25.PriorityBinding.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\25.PriorityBinding\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\25.PriorityBinding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

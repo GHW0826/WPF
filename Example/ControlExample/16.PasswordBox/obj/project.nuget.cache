@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nqa6uwWEgrc=",
+  "dgSpecHash": "+z0Otixf0yE=",
   "success": true,
-  "projectFilePath": "D:\\git\\wpf\\1\\ControlExample\\16.PasswordBox\\16.PasswordBox.csproj",
+  "projectFilePath": "D:\\git\\wpf\\Example\\ControlExample\\16.PasswordBox\\16.PasswordBox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sskim\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\sskim\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",

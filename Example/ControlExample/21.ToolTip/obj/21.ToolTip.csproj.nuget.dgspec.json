@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\21.ToolTip\\21.ToolTip.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\21.ToolTip\\21.ToolTip.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\21.ToolTip\\21.ToolTip.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\21.ToolTip\\21.ToolTip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\21.ToolTip\\21.ToolTip.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\21.ToolTip\\21.ToolTip.csproj",
         "projectName": "ToolTip",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\21.ToolTip\\21.ToolTip.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\21.ToolTip\\21.ToolTip.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\21.ToolTip\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\21.ToolTip\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

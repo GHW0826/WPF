@@ -1140,11 +1140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\27.Canvas\\27.Canvas.csproj",
+      "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\27.Canvas\\27.Canvas.csproj",
       "projectName": "Canvas",
-      "projectPath": "D:\\git\\wpf\\1\\ControlExample\\27.Canvas\\27.Canvas.csproj",
+      "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\27.Canvas\\27.Canvas.csproj",
       "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\wpf\\1\\ControlExample\\27.Canvas\\obj\\",
+      "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\27.Canvas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

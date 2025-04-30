@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T1k2uc0ALLk=",
+  "dgSpecHash": "7gvaKGudKZs=",
   "success": true,
-  "projectFilePath": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+  "projectFilePath": "D:\\git\\wpf\\Example\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sskim\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\sskim\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",

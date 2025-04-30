@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\18.GroupBox\\18.GroupBox.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\18.GroupBox\\18.GroupBox.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\18.GroupBox\\18.GroupBox.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\18.GroupBox\\18.GroupBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\18.GroupBox\\18.GroupBox.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\18.GroupBox\\18.GroupBox.csproj",
         "projectName": "GroupBox",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\18.GroupBox\\18.GroupBox.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\18.GroupBox\\18.GroupBox.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\18.GroupBox\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\18.GroupBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

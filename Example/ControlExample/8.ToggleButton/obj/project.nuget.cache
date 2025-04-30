@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8yqb4oNnRRg=",
+  "dgSpecHash": "yIMFVGVVoSs=",
   "success": true,
-  "projectFilePath": "D:\\git\\wpf\\1\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj",
+  "projectFilePath": "D:\\git\\wpf\\Example\\ControlExample\\8.ToggleButton\\8.ToggleButton.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sskim\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\sskim\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",

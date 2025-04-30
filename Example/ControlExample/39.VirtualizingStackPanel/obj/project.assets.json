@@ -1140,11 +1140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+      "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
       "projectName": "VirtualizingStackPanel",
-      "projectPath": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
+      "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\39.VirtualizingStackPanel\\39.VirtualizingStackPanel.csproj",
       "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\wpf\\1\\ControlExample\\39.VirtualizingStackPanel\\obj\\",
+      "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\39.VirtualizingStackPanel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\6.RadioButton\\6.RadioButton.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\6.RadioButton\\6.RadioButton.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\6.RadioButton\\6.RadioButton.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\6.RadioButton\\6.RadioButton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\6.RadioButton\\6.RadioButton.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\6.RadioButton\\6.RadioButton.csproj",
         "projectName": "RadioButton",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\6.RadioButton\\6.RadioButton.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\6.RadioButton\\6.RadioButton.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\6.RadioButton\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\6.RadioButton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

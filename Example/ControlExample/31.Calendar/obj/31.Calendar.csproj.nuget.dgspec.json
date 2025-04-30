@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\31.Calendar\\31.Calendar.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\31.Calendar\\31.Calendar.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\31.Calendar\\31.Calendar.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\31.Calendar\\31.Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\31.Calendar\\31.Calendar.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\31.Calendar\\31.Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\31.Calendar\\31.Calendar.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\31.Calendar\\31.Calendar.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\31.Calendar\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\31.Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

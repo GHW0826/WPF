@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\36.MediaElement\\36.MediaElement.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\36.MediaElement\\36.MediaElement.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\36.MediaElement\\36.MediaElement.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\36.MediaElement\\36.MediaElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\36.MediaElement\\36.MediaElement.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\36.MediaElement\\36.MediaElement.csproj",
         "projectName": "MediaElement",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\36.MediaElement\\36.MediaElement.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\36.MediaElement\\36.MediaElement.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\36.MediaElement\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\36.MediaElement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

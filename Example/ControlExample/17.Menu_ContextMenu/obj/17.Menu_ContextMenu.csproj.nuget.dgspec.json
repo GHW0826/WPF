@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj",
         "projectName": "Menu_ContextMenu",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\17.Menu_ContextMenu\\17.Menu_ContextMenu.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\17.Menu_ContextMenu\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\17.Menu_ContextMenu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

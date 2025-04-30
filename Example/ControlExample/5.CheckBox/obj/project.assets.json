@@ -1140,11 +1140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\5.CheckBox\\5.CheckBox.csproj",
+      "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\5.CheckBox\\5.CheckBox.csproj",
       "projectName": "CheckBox",
-      "projectPath": "D:\\git\\wpf\\1\\ControlExample\\5.CheckBox\\5.CheckBox.csproj",
+      "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\5.CheckBox\\5.CheckBox.csproj",
       "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\wpf\\1\\ControlExample\\5.CheckBox\\obj\\",
+      "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\5.CheckBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

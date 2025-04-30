@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\ControlExample\\35.Thumb\\35.Thumb.csproj": {}
+    "D:\\git\\wpf\\Example\\ControlExample\\35.Thumb\\35.Thumb.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\ControlExample\\35.Thumb\\35.Thumb.csproj": {
+    "D:\\git\\wpf\\Example\\ControlExample\\35.Thumb\\35.Thumb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\35.Thumb\\35.Thumb.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\35.Thumb\\35.Thumb.csproj",
         "projectName": "Thumb",
-        "projectPath": "D:\\git\\wpf\\1\\ControlExample\\35.Thumb\\35.Thumb.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\35.Thumb\\35.Thumb.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\ControlExample\\35.Thumb\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\35.Thumb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

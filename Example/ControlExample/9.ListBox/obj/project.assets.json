@@ -1140,11 +1140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\9.ListBox\\9.ListBox.csproj",
+      "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\9.ListBox\\9.ListBox.csproj",
       "projectName": "ListBox",
-      "projectPath": "D:\\git\\wpf\\1\\ControlExample\\9.ListBox\\9.ListBox.csproj",
+      "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\9.ListBox\\9.ListBox.csproj",
       "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\wpf\\1\\ControlExample\\9.ListBox\\obj\\",
+      "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\9.ListBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

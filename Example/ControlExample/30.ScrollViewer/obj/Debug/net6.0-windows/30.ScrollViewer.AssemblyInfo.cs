@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScrollViewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e81a6334c8a4d3ca269f6dc1f928b8501a429c85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a62b8b8fe979eb5264137541927feea1ab1a39a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScrollViewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScrollViewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

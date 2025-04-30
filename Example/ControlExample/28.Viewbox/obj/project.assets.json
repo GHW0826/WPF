@@ -1140,11 +1140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\1\\ControlExample\\28.Viewbox\\28.Viewbox.csproj",
+      "projectUniqueName": "D:\\git\\wpf\\Example\\ControlExample\\28.Viewbox\\28.Viewbox.csproj",
       "projectName": "Viewbox",
-      "projectPath": "D:\\git\\wpf\\1\\ControlExample\\28.Viewbox\\28.Viewbox.csproj",
+      "projectPath": "D:\\git\\wpf\\Example\\ControlExample\\28.Viewbox\\28.Viewbox.csproj",
       "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\wpf\\1\\ControlExample\\28.Viewbox\\obj\\",
+      "outputPath": "D:\\git\\wpf\\Example\\ControlExample\\28.Viewbox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rmGShQT6yc=",
+  "dgSpecHash": "RUsOT6MQpR0=",
   "success": true,
-  "projectFilePath": "D:\\git\\wpf\\1\\ControlExample\\5.CheckBox\\5.CheckBox.csproj",
+  "projectFilePath": "D:\\git\\wpf\\Example\\ControlExample\\5.CheckBox\\5.CheckBox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sskim\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\sskim\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
