@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\wpf\\1\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj": {}
+    "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj": {}
   },
   "projects": {
-    "D:\\git\\wpf\\1\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj": {
+    "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\wpf\\1\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
+        "projectUniqueName": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
         "projectName": "DispatcherTest",
-        "projectPath": "D:\\git\\wpf\\1\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
+        "projectPath": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
         "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\wpf\\1\\InternalExample\\Prism\\1.DispatcherTest_Prism\\obj\\",
+        "outputPath": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

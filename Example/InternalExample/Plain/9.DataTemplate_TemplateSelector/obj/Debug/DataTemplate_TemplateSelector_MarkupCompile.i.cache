@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\git\wpf\1\InternalExample\Plain\9.DataTemplate_TemplateSelector\obj\Debug\
+D:\git\wpf\Example\InternalExample\Plain\9.DataTemplate_TemplateSelector\obj\Debug\
 DataTemplate_TemplateSelector
 none
 false
 DEBUG;TRACE
-D:\git\wpf\1\InternalExample\Plain\9.DataTemplate_TemplateSelector\App.xaml
+D:\git\wpf\Example\InternalExample\Plain\9.DataTemplate_TemplateSelector\App.xaml
 3187269938
 
 8639310241
 13-38814620
 MainWindow.xaml;TemplateSelectorTestView.xaml;Themes\Generic.xaml;
 
-False
+True
 

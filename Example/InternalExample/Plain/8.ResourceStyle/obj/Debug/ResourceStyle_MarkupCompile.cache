@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\git\wpf\1\InternalExample\Plain\8.ResourceStyle\obj\Debug\
+D:\git\wpf\Example\InternalExample\Plain\8.ResourceStyle\obj\Debug\
 ResourceStyle
 none
 false
 DEBUG;TRACE
-D:\git\wpf\1\InternalExample\Plain\8.ResourceStyle\App.xaml
+D:\git\wpf\Example\InternalExample\Plain\8.ResourceStyle\App.xaml
 2749351719
 
-6-356750349
+71856128329
 13-1310406943
 MainWindow.xaml;ResourceStyleTestView.xaml;
 
-False
+True
 

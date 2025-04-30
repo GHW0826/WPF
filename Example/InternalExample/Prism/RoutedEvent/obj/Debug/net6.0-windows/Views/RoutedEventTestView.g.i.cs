@@ -59,7 +59,7 @@ namespace RoutedEvent.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RoutedEvent;component/views/routedeventtestview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RoutedEvent;V1.0.0.0;component/views/routedeventtestview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\RoutedEventTestView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

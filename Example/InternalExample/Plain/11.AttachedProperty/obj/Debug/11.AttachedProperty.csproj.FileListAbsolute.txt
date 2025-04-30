@@ -1,0 +1,16 @@
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\bin\Debug\AttachedProperty.exe.config
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\bin\Debug\AttachedProperty.exe
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\bin\Debug\AttachedProperty.pdb
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\11.AttachedProperty.csproj.AssemblyReference.cache
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\MainWindow.g.cs
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\App.g.cs
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\AttachedProperty_MarkupCompile.cache
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\AttachedProperty_MarkupCompile.lref
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\MainWindow.baml
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\AttachedProperty.g.resources
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\AttachedProperty.Properties.Resources.resources
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\11.AttachedProperty.csproj.GenerateResource.cache
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\11.AttachedProperty.csproj.CoreCompileInputs.cache
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\AttachedProperty.exe
+D:\git\wpf\Example\InternalExample\Plain\11.AttachedProperty\obj\Debug\AttachedProperty.pdb
