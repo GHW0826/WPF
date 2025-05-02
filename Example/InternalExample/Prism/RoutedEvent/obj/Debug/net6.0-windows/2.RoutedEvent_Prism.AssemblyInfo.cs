@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoutedEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7017824a9be4f6ead1947a33689db6458c6fac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ec9193e5758b045643e45378527f896ed3efe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoutedEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoutedEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

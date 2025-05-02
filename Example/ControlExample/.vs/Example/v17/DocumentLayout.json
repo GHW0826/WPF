@@ -134,8 +134,7 @@
               "RelativeToolTip": "3.TextBox\\App.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T04:45:38.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T04:45:38.323Z"
             },
             {
               "$type": "Document",
@@ -159,8 +158,7 @@
               "RelativeToolTip": "3.TextBox\\Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T04:45:12.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T04:45:12.337Z"
             },
             {
               "$type": "Document",
@@ -171,8 +169,7 @@
               "ToolTip": "D:\\git\\wpf\\Example\\ControlExample\\3.TextBox\\App.xaml",
               "RelativeToolTip": "3.TextBox\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-30T04:45:08.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T04:45:08.084Z"
             },
             {
               "$type": "Document",
@@ -195,8 +192,7 @@
               "ToolTip": "D:\\git\\wpf\\Example\\ControlExample\\39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml",
               "RelativeToolTip": "39.VirtualizingStackPanel\\Views\\VirtualizingStackPanelView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T02:20:28.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T02:20:28.913Z"
             },
             {
               "$type": "Document",
@@ -232,10 +228,6 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T02:20:42.541Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -443,6 +435,10 @@
               "RelativeToolTip": "38.AdornerLayer\\38.AdornerLayer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-29T01:38:16.622Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
