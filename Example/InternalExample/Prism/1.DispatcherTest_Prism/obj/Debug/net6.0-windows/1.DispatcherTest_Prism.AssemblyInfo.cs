@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DispatcherTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5483fb3a5125506d050cfd3cfeb6a87587942b4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7017824a9be4f6ead1947a33689db6458c6fac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DispatcherTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DispatcherTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,16 @@
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\bin\Debug\MarkupExtension.exe.config
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\bin\Debug\MarkupExtension.exe
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\bin\Debug\MarkupExtension.pdb
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\18.MarkupExtension.csproj.AssemblyReference.cache
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MainWindow.g.cs
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\App.g.cs
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MarkupExtension_MarkupCompile.cache
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MarkupExtension_MarkupCompile.lref
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MainWindow.baml
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MarkupExtension.g.resources
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MarkupExtension.Properties.Resources.resources
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\18.MarkupExtension.csproj.GenerateResource.cache
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\18.MarkupExtension.csproj.CoreCompileInputs.cache
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MarkupExtension.exe
+D:\git\wpf\Example\InternalExample\18.MarkupExtension\obj\Debug\MarkupExtension.pdb

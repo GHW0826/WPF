@@ -1,0 +1,16 @@
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\bin\Debug\StaticDynamicResource.exe.config
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\bin\Debug\StaticDynamicResource.exe
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\bin\Debug\StaticDynamicResource.pdb
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\16.StaticDynamicResource.csproj.AssemblyReference.cache
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\MainWindow.g.cs
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\App.g.cs
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\StaticDynamicResource_MarkupCompile.cache
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\StaticDynamicResource_MarkupCompile.lref
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\App.baml
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\MainWindow.baml
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\StaticDynamicResource.g.resources
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\StaticDynamicResource.Properties.Resources.resources
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\16.StaticDynamicResource.csproj.GenerateResource.cache
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\16.StaticDynamicResource.csproj.CoreCompileInputs.cache
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\StaticDynamicResource.exe
+D:\git\wpf\Example\InternalExample\16.StaticDynamicResource\obj\Debug\StaticDynamicResource.pdb

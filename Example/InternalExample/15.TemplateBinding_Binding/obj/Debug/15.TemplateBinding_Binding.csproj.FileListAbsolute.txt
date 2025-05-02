@@ -1,0 +1,17 @@
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\15.TemplateBinding_Binding.csproj.AssemblyReference.cache
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\MainWindow.g.cs
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\App.g.cs
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\TemplateBinding_Binding_MarkupCompile.cache
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\TemplateBinding_Binding_MarkupCompile.lref
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\MainWindow.baml
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\TemplateBinding_Binding.exe
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\TemplateBinding_Binding.pdb
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\bin\Debug\TemplateBinding_Binding.exe.config
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\bin\Debug\TemplateBinding_Binding.exe
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\bin\Debug\TemplateBinding_Binding.pdb
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\Themes\Generic.baml
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\TemplateBinding_Binding.g.resources
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\TemplateBinding_Binding.Properties.Resources.resources
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\15.TemplateBinding_Binding.csproj.GenerateResource.cache
+D:\git\wpf\Example\InternalExample\15.TemplateBinding_Binding\obj\Debug\15.TemplateBinding_Binding.csproj.CoreCompileInputs.cache

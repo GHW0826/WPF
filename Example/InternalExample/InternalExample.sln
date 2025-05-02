@@ -24,13 +24,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.ResourceStyle_Plain", "Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.DataTemplate_TemplateSelector_Plain", "Plain\9.DataTemplate_TemplateSelector\9.DataTemplate_TemplateSelector_Plain.csproj", "{89B03CB6-DEC2-4723-A987-8E8293EB5286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CustomControl", "Plain\10.CustomControl\10.CustomControl.csproj", "{087191E0-71CB-4CF4-ABD3-055C3B19198C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CustomControl_Plain", "Plain\10.CustomControl\10.CustomControl_Plain.csproj", "{087191E0-71CB-4CF4-ABD3-055C3B19198C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.AttachedProperty", "Plain\11.AttachedProperty\11.AttachedProperty.csproj", "{AF0E7340-16E4-4A25-A7DE-146E6F4BFB2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.AttachedProperty_Plain", "Plain\11.AttachedProperty\11.AttachedProperty_Plain.csproj", "{AF0E7340-16E4-4A25-A7DE-146E6F4BFB2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.BehaviorEventToCommand", "Plain\12.BehaviorEventToCommand\12.BehaviorEventToCommand.csproj", "{9F5C813A-F28A-4782-A7DF-26C5DF0F8A8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.BehaviorEventToCommand_Plain", "Plain\12.BehaviorEventToCommand\12.BehaviorEventToCommand_Plain.csproj", "{9F5C813A-F28A-4782-A7DF-26C5DF0F8A8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.StyleSelectorDataTriggerMultiTrigger", "Plain\13.StyleSelectorDataTriggerMultiTrigger\13.StyleSelectorDataTriggerMultiTrigger.csproj", "{C3A8AA7A-3A91-4E95-BEE7-B19802DB20AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.StyleSelectorDataTriggerMultiTrigger_Plain", "Plain\13.StyleSelectorDataTriggerMultiTrigger\13.StyleSelectorDataTriggerMultiTrigger_Plain.csproj", "{C3A8AA7A-3A91-4E95-BEE7-B19802DB20AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.VisualStateManager", "Plain\14.VisualStateManager\14.VisualStateManager.csproj", "{F3D5BF50-4EEF-4876-9E71-5AB43AB84377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.TemplateBinding_Binding", "15.TemplateBinding_Binding\15.TemplateBinding_Binding.csproj", "{1803842C-DC42-4186-AB92-7FC27CA3E0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.StaticDynamicResource", "16.StaticDynamicResource\16.StaticDynamicResource.csproj", "{FC4E512D-B4DC-4C52-B80A-A9B1EB1644F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.ThemeDictionary", "17.ThemeDictionary\17.ThemeDictionary.csproj", "{76F4121B-6F0B-46CE-B3DE-7B688C840F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.MarkupExtension", "18.MarkupExtension\18.MarkupExtension.csproj", "{C492339F-AE07-4A44-9291-5824A1EC5745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Messenger_IEventAggregator", "19.Messenger_IEventAggregator\19.Messenger_IEventAggregator.csproj", "{D4EDFA81-8C3C-46E5-934A-C076BE7B7922}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +110,30 @@ Global
 		{C3A8AA7A-3A91-4E95-BEE7-B19802DB20AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3A8AA7A-3A91-4E95-BEE7-B19802DB20AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3A8AA7A-3A91-4E95-BEE7-B19802DB20AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D5BF50-4EEF-4876-9E71-5AB43AB84377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D5BF50-4EEF-4876-9E71-5AB43AB84377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D5BF50-4EEF-4876-9E71-5AB43AB84377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D5BF50-4EEF-4876-9E71-5AB43AB84377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1803842C-DC42-4186-AB92-7FC27CA3E0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1803842C-DC42-4186-AB92-7FC27CA3E0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1803842C-DC42-4186-AB92-7FC27CA3E0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1803842C-DC42-4186-AB92-7FC27CA3E0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4E512D-B4DC-4C52-B80A-A9B1EB1644F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4E512D-B4DC-4C52-B80A-A9B1EB1644F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4E512D-B4DC-4C52-B80A-A9B1EB1644F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4E512D-B4DC-4C52-B80A-A9B1EB1644F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F4121B-6F0B-46CE-B3DE-7B688C840F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F4121B-6F0B-46CE-B3DE-7B688C840F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F4121B-6F0B-46CE-B3DE-7B688C840F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F4121B-6F0B-46CE-B3DE-7B688C840F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C492339F-AE07-4A44-9291-5824A1EC5745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C492339F-AE07-4A44-9291-5824A1EC5745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C492339F-AE07-4A44-9291-5824A1EC5745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C492339F-AE07-4A44-9291-5824A1EC5745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4EDFA81-8C3C-46E5-934A-C076BE7B7922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EDFA81-8C3C-46E5-934A-C076BE7B7922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EDFA81-8C3C-46E5-934A-C076BE7B7922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EDFA81-8C3C-46E5-934A-C076BE7B7922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

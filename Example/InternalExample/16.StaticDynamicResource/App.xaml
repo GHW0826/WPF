@@ -1,0 +1,11 @@
+﻿<Application x:Class="StaticDynamicResource.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StaticDynamicResource"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Brush 리소스 등록 -->
+        <SolidColorBrush x:Key="StaticBrush" Color="LightGreen"/>
+        <SolidColorBrush x:Key="DynamicBrush" Color="LightGreen"/>
+    </Application.Resources>
+</Application>
