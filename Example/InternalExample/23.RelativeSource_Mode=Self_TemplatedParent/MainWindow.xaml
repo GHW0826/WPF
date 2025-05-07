@@ -6,7 +6,20 @@
         xmlns:local="clr-namespace:RelativeSource_Mode_Self_TemplatedParent"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+
+    
+    <StackPanel Margin="20">
+        <TextBlock Text="Mode=Self (버튼 자체 속성)" FontWeight="Bold"/>
+        <local:StyledButton Content="Self Button"
+                            SelfColor="LightGreen"
+                            Width="150" Height="40" Margin="0,10"/>
+
+        <TextBlock Text="Mode=TemplatedParent (컨트롤 템플릿)" FontWeight="Bold"/>
+        <local:StyledButton Content="TemplatedParent Button"
+                            TemplateColor="LightSalmon"
+                            Width="150" Height="40" Margin="0,10"/>
+    </StackPanel>
 </Window>

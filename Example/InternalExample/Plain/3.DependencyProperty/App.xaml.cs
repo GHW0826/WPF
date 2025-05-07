@@ -16,14 +16,12 @@ namespace DependencyProperty
         진짜 목표는 ViewModel 대신 UserControl에 진짜 DependencyProperty를 직접 등록.
         그리고 PropertyChangedCallback을 등록해서, 값이 변경될 때 자동으로 이벤트 핸들링함.
     */
-
     /*
         DependencyProperty.Register(...)	WPF 속성 시스템의 핵심 등록 방식
         PropertyChangedCallback	            값 변경 감지 가능  
         ElementName=root	                XAML에서 UserControl 자신을 바인딩 대상으로 설정
         TextBox.Text ↔ DP.SampleText	    양방향 바인딩 실험
     */
-
     /*
         WPF는 DependencyObject를 기반으로 "속성 테이블"을 관리.
         → 이 테이블에 속성 이름, 기본값, 콜백, 메타데이터를 등록하는 게 DependencyProperty.Register().

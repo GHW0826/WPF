@@ -3,26 +3,124 @@
   "WorkspaceRootPath": "D:\\git\\wpf\\Example\\InternalExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|26.NavigationFramePage||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|solutionrelative:26.navigationframepage\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|d:\\git\\wpf\\example\\internalexample\\25.freezables\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|solutionrelative:25.freezables\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|d:\\git\\wpf\\example\\internalexample\\25.freezables\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|solutionrelative:25.freezables\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|d:\\git\\wpf\\example\\internalexample\\25.freezables\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|solutionrelative:25.freezables\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|d:\\git\\wpf\\example\\internalexample\\25.freezables\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|solutionrelative:25.freezables\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|25.Freezables||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BCC93A-D9F0-482B-B34D-588843053B06}|Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj|d:\\git\\wpf\\example\\internalexample\\prism\\1.dispatchertest_prism\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2BCC93A-D9F0-482B-B34D-588843053B06}|Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj|solutionrelative:prism\\1.dispatchertest_prism\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\24.templatebindingrelativesource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|solutionrelative:24.templatebindingrelativesource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\24.templatebindingrelativesource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|solutionrelative:24.templatebindingrelativesource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\24.templatebindingrelativesource\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|solutionrelative:24.templatebindingrelativesource\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\24.templatebindingrelativesource\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|solutionrelative:24.templatebindingrelativesource\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|24.TemplateBindingRelativeSource||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\styledbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\styledbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\styledbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\styledbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|D:\\git\\wpf\\Example\\InternalExample\\23.relativesource_mode=self_templatedparent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|23.RelativeSource_Mode=Self_TemplatedParent||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\22.elementnamerelativesource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|D:\\git\\wpf\\Example\\InternalExample\\23.relativesource_mode=self_templatedparent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|D:\\git\\wpf\\Example\\InternalExample\\23.relativesource_mode=self_templatedparent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode_Self_TemplatedParent.csproj|solutionrelative:23.relativesource_mode=self_templatedparent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|D:\\git\\wpf\\Example\\InternalExample\\22.elementnamerelativesource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|solutionrelative:22.elementnamerelativesource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,7 +128,7 @@
       "RelativeMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|solutionrelative:22.elementnamerelativesource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\22.elementnamerelativesource\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|D:\\git\\wpf\\Example\\InternalExample\\22.elementnamerelativesource\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ACAE217-FDB9-4C5C-BB7C-458113C782A8}|22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj|solutionrelative:22.elementnamerelativesource\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -132,7 +230,13 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|1.DispatcherTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5164BC93-7BDD-42D5-9F90-EEBB1DD3D6FF}|23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj|d:\\git\\wpf\\example\\internalexample\\23.relativesource_mode=self_templatedparent\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{4689F416-E851-482C-B183-6D55F8E0D562}|24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj|d:\\git\\wpf\\example\\internalexample\\24.templatebindingrelativesource\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5433A75B-7C36-4AD6-83A7-C1489433C029}|25.Freezables\\25.Freezables.csproj|d:\\git\\wpf\\example\\internalexample\\25.freezables\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27535FFF-7633-404B-B925-23EEF3B9BE5E}|26.NavigationFramePage\\26.NavigationFramePage.csproj|d:\\git\\wpf\\example\\internalexample\\26.navigationframepage\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,7 +246,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,20 +254,346 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
-              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
-              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\DetailPage.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\DetailPage.xaml.cs",
+              "RelativeToolTip": "26.NavigationFramePage\\DetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:46:16.291Z",
+              "WhenOpened": "2025-05-07T04:23:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\DetailPage.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\DetailPage.xaml",
+              "RelativeToolTip": "26.NavigationFramePage\\DetailPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:23:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\HomePage.xaml",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\HomePage.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\HomePage.xaml",
+              "RelativeToolTip": "26.NavigationFramePage\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:23:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\MainWindow.xaml",
+              "RelativeToolTip": "26.NavigationFramePage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:21:47.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "26.NavigationFramePage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:21:47.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\App.xaml.cs",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\App.xaml.cs",
+              "RelativeToolTip": "26.NavigationFramePage\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:22:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "26.NavigationFramePage",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\26.NavigationFramePage.csproj",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\26.NavigationFramePage.csproj",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\26.NavigationFramePage.csproj*",
+              "RelativeToolTip": "26.NavigationFramePage\\26.NavigationFramePage.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T04:22:16.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\App.xaml",
+              "RelativeDocumentMoniker": "26.NavigationFramePage\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\26.NavigationFramePage\\App.xaml",
+              "RelativeToolTip": "26.NavigationFramePage\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:21:57.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\App.xaml.cs",
+              "RelativeDocumentMoniker": "25.Freezables\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\App.xaml.cs",
+              "RelativeToolTip": "25.Freezables\\App.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:17:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\App.xaml",
+              "RelativeDocumentMoniker": "25.Freezables\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\App.xaml",
+              "RelativeToolTip": "25.Freezables\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:17:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "25.Freezables",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\25.Freezables.csproj",
+              "RelativeDocumentMoniker": "25.Freezables\\25.Freezables.csproj",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\25.Freezables.csproj",
+              "RelativeToolTip": "25.Freezables\\25.Freezables.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T04:17:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "25.Freezables\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\MainWindow.xaml",
+              "RelativeToolTip": "25.Freezables\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:16:54.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "25.Freezables\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\25.Freezables\\MainWindow.xaml.cs",
+              "RelativeToolTip": "25.Freezables\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:16:54.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Prism\\1.DispatcherTest_Prism\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Prism\\1.DispatcherTest_Prism\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:15:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\App.xaml",
+              "RelativeDocumentMoniker": "24.TemplateBindingRelativeSource\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\App.xaml",
+              "RelativeToolTip": "24.TemplateBindingRelativeSource\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:09:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "24.TemplateBindingRelativeSource",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj",
+              "RelativeDocumentMoniker": "24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj",
+              "RelativeToolTip": "24.TemplateBindingRelativeSource\\24.TemplateBindingRelativeSource.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T04:09:29.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "24.TemplateBindingRelativeSource\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\MainWindow.xaml",
+              "RelativeToolTip": "24.TemplateBindingRelativeSource\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T04:09:25.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "24.TemplateBindingRelativeSource\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\MainWindow.xaml.cs",
+              "RelativeToolTip": "24.TemplateBindingRelativeSource\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:09:25.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\App.xaml.cs",
+              "RelativeDocumentMoniker": "24.TemplateBindingRelativeSource\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\24.TemplateBindingRelativeSource\\App.xaml.cs",
+              "RelativeToolTip": "24.TemplateBindingRelativeSource\\App.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:09:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\Themes\\Generic.xaml",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T02:17:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StyledButton.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T02:14:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T02:12:54.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StyledButton.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml.cs",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml.cs",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\StyledButton.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:14:23.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:18:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\MainViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainViewModel.cs",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:14:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:05:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:45:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml",
               "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml",
@@ -175,74 +605,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "23.RelativeSource_Mode=Self_TemplatedParent",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj",
-              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj",
-              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\23.RelativeSource_Mode=Self_TemplatedParent.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-02T08:46:04.591Z",
-              "EditorCaption": ""
+              "DocumentIndex": 28,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:46:16.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 27,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
               "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
               "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
               "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-02T08:45:56.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T08:45:56.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
-              "RelativeToolTip": "23.RelativeSource_Mode=Self_TemplatedParent\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:45:56.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\MainViewModel.cs",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainViewModel.cs",
-              "RelativeToolTip": "22.ElementNameRelativeSource\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:37:46.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml.cs",
-              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\App.xaml.cs",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml.cs",
-              "RelativeToolTip": "22.ElementNameRelativeSource\\App.xaml.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwDwAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:43:13.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 57,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\1\\InternalExample\\1.DispatcherTest\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\1\\InternalExample\\1.DispatcherTest\\MainWindow.xaml.cs",
@@ -254,42 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml",
-              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\App.xaml",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml",
-              "RelativeToolTip": "22.ElementNameRelativeSource\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-02T07:43:10.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\MainWindow.xaml",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainWindow.xaml",
-              "RelativeToolTip": "22.ElementNameRelativeSource\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-02T07:42:57.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "22.ElementNameRelativeSource",
-              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
-              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
-              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
-              "RelativeToolTip": "22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-02T07:43:05.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 56,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\1\\InternalExample\\1.DispatcherTest\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\1\\InternalExample\\1.DispatcherTest\\MainWindow.xaml",
@@ -300,7 +651,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 32,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\MainViewModel.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainViewModel.cs",
+              "RelativeToolTip": "22.ElementNameRelativeSource\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:37:46.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml.cs",
+              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\App.xaml.cs",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml.cs",
+              "RelativeToolTip": "22.ElementNameRelativeSource\\App.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwDwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:43:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml",
+              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\App.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\App.xaml",
+              "RelativeToolTip": "22.ElementNameRelativeSource\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T07:43:10.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\MainWindow.xaml",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainWindow.xaml",
+              "RelativeToolTip": "22.ElementNameRelativeSource\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T07:42:57.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "22.ElementNameRelativeSource",
+              "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
+              "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
+              "ToolTip": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
+              "RelativeToolTip": "22.ElementNameRelativeSource\\22.ElementNameRelativeSource.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:43:05.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\22.ElementNameRelativeSource\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "22.ElementNameRelativeSource\\MainWindow.xaml.cs",
@@ -312,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\21.RelativeSourceFindAncestor\\App.xaml.cs",
               "RelativeDocumentMoniker": "21.RelativeSourceFindAncestor\\App.xaml.cs",
@@ -324,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 41,
               "Title": "21.RelativeSourceFindAncestor",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\21.RelativeSourceFindAncestor\\21.RelativeSourceFindAncestor.csproj",
               "RelativeDocumentMoniker": "21.RelativeSourceFindAncestor\\21.RelativeSourceFindAncestor.csproj",
@@ -335,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\21.RelativeSourceFindAncestor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "21.RelativeSourceFindAncestor\\MainWindow.xaml",
@@ -346,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 39,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\21.RelativeSourceFindAncestor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "21.RelativeSourceFindAncestor\\MainWindow.xaml.cs",
@@ -358,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\21.RelativeSourceFindAncestor\\MainViewModel.cs",
               "RelativeDocumentMoniker": "21.RelativeSourceFindAncestor\\MainViewModel.cs",
@@ -370,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 40,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\21.RelativeSourceFindAncestor\\App.xaml",
               "RelativeDocumentMoniker": "21.RelativeSourceFindAncestor\\App.xaml",
@@ -381,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 47,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\App.xaml",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\App.xaml",
@@ -392,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 42,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\App.xaml.cs",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\App.xaml.cs",
@@ -404,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 48,
               "Title": "20.MultiBindingIMultiValueConverter",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\20.MultiBindingIMultiValueConverter.csproj",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\20.MultiBindingIMultiValueConverter.csproj",
@@ -415,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 43,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\MainWindow.xaml",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\MainWindow.xaml",
@@ -426,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 44,
               "Title": "AndConverter.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\AndConverter.cs",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\AndConverter.cs",
@@ -438,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 45,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\MainWindow.xaml.cs",
@@ -450,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 46,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\20.MultiBindingIMultiValueConverter\\MainViewModel.cs",
               "RelativeDocumentMoniker": "20.MultiBindingIMultiValueConverter\\MainViewModel.cs",
@@ -462,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 49,
               "Title": "DispatcherTestViewModel.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\DispatcherTestViewModel.cs",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\DispatcherTestViewModel.cs",
@@ -474,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 50,
               "Title": "DispatcherTestView.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\DispatcherTestView.xaml.cs",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\DispatcherTestView.xaml.cs",
@@ -486,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 51,
               "Title": "DispatcherTestView.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\DispatcherTestView.xaml",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\DispatcherTestView.xaml",
@@ -497,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 53,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\App.xaml.cs",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\App.xaml.cs",
@@ -509,7 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 54,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\App.xaml",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\App.xaml",
@@ -520,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 55,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\MainWindow.xaml.cs",
@@ -532,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 52,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\git\\wpf\\Example\\InternalExample\\Plain\\1.DispatcherTest\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Plain\\1.DispatcherTest\\MainWindow.xaml",
@@ -543,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 58,
               "Title": "1.DispatcherTest",
               "DocumentMoniker": "D:\\git\\wpf\\1\\InternalExample\\Plain\\1.DispatcherTest\\1.DispatcherTest.csproj",
               "RelativeDocumentMoniker": "..\\..\\1\\InternalExample\\Plain\\1.DispatcherTest\\1.DispatcherTest.csproj",

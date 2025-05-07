@@ -1,0 +1,32 @@
+﻿<Window x:Class="TemplateBindingRelativeSource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemplateBindingRelativeSource"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btnTemplateBinding" Content="TemplateBinding Button" Width="200" Height="50" Background="LightBlue" Click="btnTemplateBinding_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" Padding="10">
+                            <TextBlock Text="TemplateBinding"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button x:Name="btnRelativeSource" Content="RelativeSource Button" Width="200" Height="50" Background="LightCoral" Click="btnRelativeSource_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{Binding Background, RelativeSource={RelativeSource TemplatedParent}}" Padding="10">
+                            <TextBlock Text="RelativeSource"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
