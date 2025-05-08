@@ -437,7 +437,7 @@ static MyFancyControl()
 |MyFancyControl.cs|	        Control 상속 + DP 등록 + Style 연결|
 |FancyTextProperty|	        사용자 정의 DP|
 |Generic.xaml|	            ControlTemplate 등록 위치|
-|TemplateBinding FancyText||	외부 속성 바인딩용 연결|
+|TemplateBinding FancyText|	외부 속성 바인딩용 연결|
    
 ```
 [MainWindow.xaml]
