@@ -13,7 +13,29 @@ WPF의 스레드 구조
 |ThreadPool / Background Threads	  |데이터 로딩, 네트워크 통신, 파일 IO, 무거운 계산 처리 등|
 |Dispatcher	                        |다른 스레드 → UI 스레드로 안전하게 작업 요청하는 중개자   |
    
-## 2.RoutedEvent
+## 2.RoutedEvent   
+이벤트가 UI 트리(Visual/Logical Tree)를 따라 전파되는 구조.   
+버블링(Bubbling): 아래 컨트롤(Button)에서 이벤트 발생 → 위쪽 부모 컨트롤(Grid 등)으로 이벤트 전파   
+터널링(Tunneling): 최상위 컨트롤(Grid 등)에서 이벤트를 먼저 캡처 → 자식(Button 등)으로 내려감   
+Direct :	특정 요소에서만 발생.   
+   
+```
+        [ 사용자 입력 발생 (MouseDown) ]
+            ↓
+        [ InputManager: Raw Input 수집 ]
+            ↓
+        [ HitTest: 클릭된 요소(Button) 찾음 ]
+            ↓
+        [ RoutedEvent 인스턴스 생성 ]
+            ↓
+        [ 터널링 전파 (Window → Grid → StackPanel → Button) ]
+            ↓
+        [ 타겟 도착(Button) ]
+            ↓
+        [ 버블링 전파 (Button → StackPanel → Grid → Window) ]
+            ↓
+        [ 완료 or Handled로 중단 ]
+```
 ## 3.DependencyProperty
 ## 4.BindingEvaluation
 ## 5.VisualLogicalTree
