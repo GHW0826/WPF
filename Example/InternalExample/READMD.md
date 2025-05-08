@@ -35,8 +35,32 @@ Direct :	특정 요소에서만 발생.
         [ 버블링 전파 (Button → StackPanel → Grid → Window) ]
             ↓
         [ 완료 or Handled로 중단 ]
+```   
+## 3.DependencyProperty   
+- WPF는 DependencyObject를 기반으로 "속성 테이블"을 관리.   
+→ 이 테이블에 속성 이름, 기본값, 콜백, 메타데이터를 등록하는 게 DependencyProperty.Register().   
+- DependencyObject마다 속성 저장소(Internal Storage)가 따로 있다   
+
+```cpp
+public static readonly DependencyProperty SampleTextProperty =
+DependencyProperty.Register(
+    "SampleText",                                   // 속성 이름
+    typeof(string),                                 // 속성 타입
+    typeof(DependencyPropertyTestView),             // 소유자 타입
+    new PropertyMetadata("", OnSampleTextChanged)   // 기본값 + 변경콜백
+);
 ```
-## 3.DependencyProperty
+- 이걸 하면, DependencyObject(UserControl)이 자신의 내부 테이블에 "SampleText" 속성을 등록 됨.   
+→ 아직 값은 없지만, "SampleText"라는 슬롯이 생김.   
+   
+- DependencyObject는 값을 아래 처럼 설정.   
+- SetValue(DependencyProperty, object) → 값을 "속성 테이블"에 세팅   
+- GetValue(DependencyProperty) → "속성 테이블"에서 값을 읽기   
+
+- SetValue() 호출 과정에서 값이 변경될 경우 (기존 값 ≠ 새 값)   
+- DependencyProperty에 PropertyChangedCallback이 등록되어 있을 경우 그 콜백을 호출.   
+- 즉, SetValue() -> 내부 비교 -> 변경됨 -> PropertyChangedCallback 호출 → 값 변경 감지   
+   
 ## 4.BindingEvaluation
 ## 5.VisualLogicalTree
 ## 6.Command
