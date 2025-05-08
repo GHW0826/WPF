@@ -61,7 +61,19 @@ DependencyProperty.Register(
 - DependencyProperty에 PropertyChangedCallback이 등록되어 있을 경우 그 콜백을 호출.   
 - 즉, SetValue() -> 내부 비교 -> 변경됨 -> PropertyChangedCallback 호출 → 값 변경 감지   
    
-## 4.BindingEvaluation
+## 4.BindingEvaluation   
+- WPF에서 Binding은 단순히 값 복사(copy)가 아니라 "Binding 엔진"이라는 별도의 시스템이 동작하는 "연결(Connection)".   
+- 흐름: 바인딩 객체 생성 → BindingEngine 등록 → 데이터 소스 모니터링 → 값 변화 감지 → 대상 컨트롤 업데이트   
+- 단순히 "TextBox.Text = ViewModel.Property" 한 번 복사하고 끝나는 게 아니고,   
+- ViewModel의 Property를 지속적으로 감시(Wire)해서, 값이 변하면 동기화.
+
+|BindingMode	|동작 방식|	                    결과|
+|--------------|--------|--------------------------|
+|OneWay	|ViewModel → View 한 방향 연결	    |TextBox에 입력해도 ViewModel 업데이트 안 됨|
+|TwoWay	|ViewModel ↔ View 양방향 연결	    |TextBox 입력하면 ViewModel 값도 변함|
+|OneTime	|최초 바인딩 시 값 복사만	        |TextBox 입력해도 ViewModel 값 변하지 않음|
+|OneWayToSource	|View → ViewModel (거꾸로)	|주로 드문 케이스 (입력기 중심 컨트롤용)|
+   
 ## 5.VisualLogicalTree
 ## 6.Command
 ## 7.MeasureArrange
