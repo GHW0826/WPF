@@ -73,6 +73,30 @@ DependencyProperty.Register(
 |TwoWay	|ViewModel ↔ View 양방향 연결	    |TextBox 입력하면 ViewModel 값도 변함|
 |OneTime	|최초 바인딩 시 값 복사만	        |TextBox 입력해도 ViewModel 값 변하지 않음|
 |OneWayToSource	|View → ViewModel (거꾸로)	|주로 드문 케이스 (입력기 중심 컨트롤용)|
+
+[BindingEngine 내부 작동 흐름]
+- 바인딩 구문을 만나면 ({Binding}), WPF가 BindingExpression을 생성한다.   
+- BindingExpression은 Source 객체(ViewModel)를 등록하고 PropertyChanged 이벤트를 구독.   
+- Source 객체가 값을 변경하면, BindingEngine이 자동으로 컨트롤(View)을 업데이트한다.   
+- 반대로, UpdateSourceTrigger에 따라 View의 값을 Source로 밀어넣기도 함.   
+- Binding은 실제로 Source와 Target 양쪽을 계속 감시하고 동기화하는 역할을 함.   
+   
+[Binding이 DependencyProperty 기반인 이유]
+- DependencyProperty 시스템은 내부에서 "값 변경 감지"를 자동으로 해준다 (SetValue → PropertyChangedCallback).   
+- 값이 변하면 BindingEngine이 자동으로 알 수 있다   
+- 만약 일반 C# 프로퍼티였다면 INotifyPropertyChanged를 구현해서 BindingEngine에 알리는 코드가 별도로 필요함.   
+- WPF 바인딩은 DependencyProperty에 최적화 되어 설계됨.   
+
+[UpdateSourceTrigger]
+- UpdateSourceTrigger는 "View → ViewModel으로 값을 언제 보낼지"를 결정하는 설정.   
+   
+|Trigger 종류|	    설명|
+|------------|---------|
+|Default|	            컨트롤 타입에 따라 다름 (TextBox는 LostFocus)|
+|PropertyChanged|	    입력할 때마다 즉시 ViewModel로 전송|
+|LostFocus|	        포커스 빠져나갈 때 ViewModel로 전송|
+|Explicit|	        명시적으로 UpdateSource() 호출해야 전송|
+
    
 ## 5.VisualLogicalTree
 ## 6.Command
