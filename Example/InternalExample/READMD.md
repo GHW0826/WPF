@@ -874,7 +874,7 @@ Behavior (EventToCommand):
     
  [IServiceProvider에서 얻을 수 있는 정보]
  |형식|	                설명|
- |=---|----------------------|
+ |----|----------------------|
  |IProvideValueTarget|	    대상 객체와 속성 (어떤 컨트롤의 어떤 속성에 적용 중인지)|
  |IRootObjectProvider|	    최상위 루트 요소|
  |IXamlTypeResolver|	    문자열 타입명을 .NET Type으로 변환 가능|
@@ -899,7 +899,7 @@ Behavior (EventToCommand):
  
  [요약]
  |항목|	            내용|
- ----|------------------|
+ |----|------------------|
  |핵심 개념|	        {} 구문은 전부 MarkupExtension|
  |주요 메서드|	        ProvideValue() 에서 반환된 값이 XAML 속성에 설정됨|
  |적용 위치|	        거의 모든 XAML 속성, 바인딩, 트리거, 리소스 등|
