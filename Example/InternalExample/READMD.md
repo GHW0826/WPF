@@ -594,6 +594,18 @@ public class InvokeCommandAction : TriggerAction<DependencyObject>
          └ InvokeCommandAction → ViewModel.Command.Execute()
 ```
 
+Command (ICommand):   
+- ViewModel에서 로직을 정의하는 방식   
+- WPF에서는 주로 Button.Command에서 사용   
+- UI 요소가 직접 Command를 연결 (ex. Button.Command="{Binding SomeCommand}")   
+
+Behavior (EventToCommand):   
+- View (XAML)에서 발생하는 이벤트를 ViewModel의 Command로 전달하는 방식   
+- Interaction.Triggers를 통해 View의 다양한 이벤트 (Click, MouseEnter, Loaded)를 ViewModel로 연결   
+
+- Command는 원래 Button 등 명령형 UI 요소에서만 사용 가능하지만,   
+- Behavior는 모든 UI 요소 (TextBlock, Grid, Border 등)에서 이벤트 처리 가능   
+   
 ## 13.StyleSelectorDataTriggerMultiTrigger
 ## 14.VisualStateManager
 ## 15.TemplateBinding_Binding
