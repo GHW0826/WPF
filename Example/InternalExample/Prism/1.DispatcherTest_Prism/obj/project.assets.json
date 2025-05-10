@@ -930,23 +930,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sskim\\.nuget\\packages\\": {},
+    "C:\\Users\\tjdtn\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
+      "projectUniqueName": "D:\\git\\WPF\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
       "projectName": "DispatcherTest",
-      "projectPath": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
-      "packagesPath": "C:\\Users\\sskim\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\wpf\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\obj\\",
+      "projectPath": "D:\\git\\WPF\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\1.DispatcherTest_Prism.csproj",
+      "packagesPath": "C:\\Users\\tjdtn\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\WPF\\Example\\InternalExample\\Prism\\1.DispatcherTest_Prism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sskim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tjdtn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -971,9 +971,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -1021,7 +1021,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

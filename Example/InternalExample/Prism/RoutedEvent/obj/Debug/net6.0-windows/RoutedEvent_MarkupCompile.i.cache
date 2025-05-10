@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\git\wpf\Example\InternalExample\Prism\RoutedEvent\obj\Debug\net6.0-windows\
+D:\git\WPF\Example\InternalExample\Prism\RoutedEvent\obj\Debug\net6.0-windows\
 RoutedEvent
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\git\wpf\Example\InternalExample\Prism\RoutedEvent\App.xaml
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\git\WPF\Example\InternalExample\Prism\RoutedEvent\App.xaml
 21320552658
 
 7-1254192182
-1991030680586
+199335710331
 Views\MainWindow.xaml;Views\RoutedEventTestView.xaml;
 
 False

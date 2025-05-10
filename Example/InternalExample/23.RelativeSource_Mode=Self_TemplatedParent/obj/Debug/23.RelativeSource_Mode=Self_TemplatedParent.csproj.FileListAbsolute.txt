@@ -1,7 +1,0 @@
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\23.RelativeSource_Mode=Self_TemplatedParent.csproj.AssemblyReference.cache
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\MainWindow.g.cs
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\App.g.cs
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\RelativeSource_Mode=Self_TemplatedParent_MarkupCompile.cache
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\RelativeSource_Mode=Self_TemplatedParent_MarkupCompile.lref
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\RelativeSource_Mode=Self_TemplatedParent.exe
-D:\git\wpf\Example\InternalExample\23.RelativeSource_Mode=Self_TemplatedParent\obj\Debug\RelativeSource_Mode=Self_TemplatedParent.pdb
