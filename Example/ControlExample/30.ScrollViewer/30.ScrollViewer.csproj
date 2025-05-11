@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>ScrollViewer</AssemblyName>
+    <RootNamespace>ScrollViewer</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Views\ScrollViewerViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ViewModels\ScrollViewerViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    <PackageReference Include="Prism.DryIoc" Version="8.1.97" />
+  </ItemGroup>
+</Project>

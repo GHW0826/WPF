@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>RadioButton</RootNamespace>
+    <AssemblyName>RadioButton</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Assets\female.png" />
+    <None Remove="Assets\male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\female.png" />
+    <EmbeddedResource Include="Assets\male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    <PackageReference Include="Prism.DryIoc" Version="8.1.97" />
+  </ItemGroup>
+</Project>

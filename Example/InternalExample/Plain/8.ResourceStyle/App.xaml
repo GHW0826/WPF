@@ -1,0 +1,10 @@
+﻿<Application x:Class="ResourceStyle.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ResourceStyle"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- 글로벌 리소스 정의 -->
+        <SolidColorBrush x:Key="GlobalBrush" Color="CornflowerBlue"/>
+    </Application.Resources>
+</Application>

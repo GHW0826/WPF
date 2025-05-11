@@ -1,0 +1,116 @@
+﻿<UserControl x:Class="TabControl.Views.TabControlView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TabControl.Views"
+             xmlns:vm="clr-namespace:TabControl.ViewModels"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type vm:GeneralTabViewModel}">
+            <local:GeneralTabView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:NotificationTabViewModel}">
+            <local:NotificationTabView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AdvancedTabViewModel}">
+            <local:AdvancedTabView />
+        </DataTemplate>
+
+
+        <!-- TabItem HeaderTemplate with close button -->
+        <DataTemplate x:Key="ClosableTabHeaderTemplate">
+            <StackPanel Orientation="Horizontal" MinWidth="120">
+                <TextBlock Text="🗂" Margin="0,0,5,0"/>
+                <TextBlock Text="{Binding Title}" />
+                <Button Content="❌"
+                        Command="{Binding DataContext.CloseTabCommand, RelativeSource={RelativeSource AncestorType=TabControl}}"
+                        CommandParameter="{Binding}"
+                        Padding="0"
+                        Margin="10,0,0,0"
+                        Width="18"
+                        Height="18"
+                        VerticalAlignment="Center"
+                        Background="Transparent"
+                        BorderBrush="{x:Null}"
+                        ToolTip="탭 닫기" />
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+    
+    <StackPanel Margin="30">
+        <TextBlock Text="동적 탭 제어" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <Button Content="➕ 탭 추가" Command="{Binding AddTabCommand}" Width="100" Margin="0,0,0,10" />
+
+        <TabControl ItemsSource="{Binding Tabs}"
+                    SelectedItem="{Binding SelectedTab, Mode=TwoWay}"
+                    Height="200" >
+            <!-- ItemTemplate 사용시 HeaderTemplate 사용 무시.
+            <TabControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="⚙" Margin="0,0,5,0"/>
+                        <TextBlock Text="{Binding Title}" />
+                    </StackPanel>
+                </DataTemplate>
+            </TabControl.ItemTemplate>
+            -->
+            <TabControl.Resources>
+                <Style TargetType="TabItem">
+                    <Setter Property="HeaderTemplate" Value="{StaticResource ClosableTabHeaderTemplate}" />
+                    <Setter Property="Padding" Value="6"/>
+                    <Setter Property="MinWidth" Value="120" />
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Background" Value="LightSkyBlue"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TabControl.Resources>
+            <!--
+            <TabControl.ItemContainerStyle>
+                <Style TargetType="TabItem">
+                    <Setter Property="Header" Value="{Binding Title}" />
+                </Style>
+            </TabControl.ItemContainerStyle>
+            -->
+        </TabControl>
+        <TextBlock Text="{Binding LastLog}" Foreground="Gray" Margin="0,10,0,0"/>
+        <!--
+        <TextBlock Text="설정 탭 메뉴" FontWeight="Bold" Margin="0,0,0,10"/>
+        <TabControl SelectedIndex="{Binding SelectedTabIndex, Mode=TwoWay}" Height="200">
+            <TabItem Header="일반">
+                <TextBlock Text="일반 설정입니다." Padding="10"/>
+            </TabItem>
+            <TabItem Header="알림">
+                <TextBlock Text="알림 설정입니다." Padding="10"/>
+            </TabItem>
+            <TabItem Header="고급">
+                <TextBlock Text="고급 설정입니다." Padding="10"/>
+            </TabItem>
+        </TabControl>
+        <TextBlock Text="{Binding TabStatus}" Margin="0,20,0,0"/>
+        
+        <Separator Margin="0,20,0,10" />
+        
+        <ContentControl Content="{Binding SelectedTabContent}">
+            <ContentControl.Resources>
+                <DataTemplate DataType="{x:Type vm:GeneralTabViewModel}">
+                    <local:GeneralTabView />
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type vm:NotificationTabViewModel}">
+                    <local:NotificationTabView />
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type vm:AdvancedTabViewModel}">
+                    <local:AdvancedTabView />
+                </DataTemplate>
+            </ContentControl.Resources>
+        </ContentControl>
+         -->
+    </StackPanel>
+</UserControl>

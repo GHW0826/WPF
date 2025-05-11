@@ -1,0 +1,29 @@
+﻿<Window x:Class="ElementNameRelativeSource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ElementNameRelativeSource"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+
+    <StackPanel Margin="20">
+        <TextBox x:Name="txtSource" Text="{Binding InputText, UpdateSourceTrigger=PropertyChanged}" Width="200" />
+
+        <GroupBox Header="ElementName 방식" Margin="0,20,0,0">
+            <StackPanel Margin="10">
+                <TextBlock Text="{Binding Text, ElementName=txtSource}" FontWeight="Bold" />
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="RelativeSource 방식" Margin="10 0 0 0">
+            <StackPanel Margin="10">
+                <TextBlock Text="{Binding Path=Text,
+                    RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=TextBox}}" Foreground="DarkBlue"/>
+            </StackPanel>
+        </GroupBox>
+    </StackPanel>
+</Window>

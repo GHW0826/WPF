@@ -1,0 +1,73 @@
+﻿<Window x:Class="StyleSelectorDataTriggerMultiTrigger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StyleSelectorDataTriggerMultiTrigger"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+
+        <!-- 기본 스타일 -->
+        <Style x:Key="DefaultTextStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontWeight" Value="Normal"/>
+        </Style>
+
+        <!-- 강조 스타일 -->
+        <Style x:Key="HighlightedTextStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Red"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <!-- Selector -->
+        <local:StatusStyleSelector x:Key="StatusSelector"
+                                 DefaultStyle="{StaticResource DefaultTextStyle}"
+                                 HighlightedStyle="{StaticResource HighlightedTextStyle}" />
+
+        
+        
+        <!-- DataTrigger Style -->
+        <Style x:Key="TriggerStyle" TargetType="TextBlock">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding IsActive}" Value="True">
+                    <Setter Property="Foreground" Value="Green"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- MultiTrigger Style -->
+       <Style x:Key="MultiTriggerStyle" TargetType="TextBlock">
+            <Style.Triggers>
+                <MultiDataTrigger>
+                    <MultiDataTrigger.Conditions>
+                        <Condition Binding="{Binding IsActive}" Value="True"/>
+                        <Condition Binding="{Binding Level}" Value="High"/>
+                    </MultiDataTrigger.Conditions>
+                    <Setter Property="Foreground" Value="Blue"/>
+                    <Setter Property="FontStyle" Value="Italic"/>
+                </MultiDataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <StackPanel DataContext="{Binding Item}">
+            <ItemsControl ItemsSource="{Binding Item}"
+                    ItemContainerStyleSelector="{StaticResource StatusSelector}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+            <TextBlock Text="DataTrigger 적용:"
+                       Style="{StaticResource TriggerStyle}" />
+
+
+            <TextBlock Text="MultiTriggerStyle 적용:"
+                       Style="{StaticResource MultiTriggerStyle}" />
+            
+        </StackPanel>
+    </Grid>
+</Window>

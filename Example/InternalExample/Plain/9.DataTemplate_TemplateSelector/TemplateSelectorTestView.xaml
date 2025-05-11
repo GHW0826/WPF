@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="DataTemplate_TemplateSelector.TemplateSelectorTestView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DataTemplate_TemplateSelector"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+
+        <!-- 템플릿: 일반 항목 -->
+        <DataTemplate x:Key="DefaultTemplate">
+            <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="5">
+                <TextBlock Text="{Binding Name}" />
+            </Border>
+        </DataTemplate>
+
+        <!-- 템플릿: 강조 항목 -->
+        <DataTemplate x:Key="HighlightedTemplate">
+            <Border BorderBrush="Red" BorderThickness="2" Padding="10" Margin="5">
+                <StackPanel>
+                    <TextBlock Text="🔥 Highlighted!" FontWeight="Bold" Foreground="Red"/>
+                    <TextBlock Text="{Binding Name}" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+
+        <!-- 템플릿 셀렉터 -->
+        <local:MyTemplateSelector x:Key="MySelector"
+                                  DefaultTemplate="{StaticResource DefaultTemplate}"
+                                  HighlightedTemplate="{StaticResource HighlightedTemplate}" />
+
+    </UserControl.Resources>
+
+    <StackPanel>
+        <TextBlock Text="템플릿 셀렉터 예제" FontSize="16" Margin="10"/>
+        <ItemsControl ItemsSource="{Binding Items}"
+                      ItemTemplateSelector="{StaticResource MySelector}" />
+    </StackPanel>
+</UserControl>
